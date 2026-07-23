@@ -1,0 +1,1744 @@
+{
+  "title": "manageSubscription",
+  "chnldata": {},
+  "index": {
+    "analytics": {
+      "lineOfBusiness": "general"
+    },
+    "seo": {
+      "disableBreadCrumbs": false,
+      "twittercard": "summary",
+      "metaRobots": "INDEX,FOLLOW"
+    },
+    "pageinfo": {
+      "lineOfBusiness": "general"
+    },
+    "disableAuxNav": false,
+    "disableGNav": false,
+    "disableLinkFarm": false,
+    "disableSkinnyGNav": false,
+    "isV2GNav": false,
+    "isV2Footer": false,
+    "isV2LinkFarm": false,
+    "disableTFN": false,
+    "disableBusinessLink": false,
+    "helpCenterInfoLabel": "Call us: ",
+    "CustomerCareNum": "8553836121",
+    "CustomerCareNumLabel": "855.383.6121",
+    "arsFee": "",
+    "disableStrikeThruPricing": false,
+    "disableCheckoutTFN": false,
+    "isBreadcrumbPostionTop": false,
+    "showPromoInCart": false,
+    "disableBBBanner": false,
+    "disableSaveCart": false,
+    "disableOfferBanner": false,
+    "isDoubleBreadcrumbNeeded": false
+  },
+  ":items": {
+    "page": {
+      "title": "page",
+      "elements": {
+        "title": "Manage TV Package | DIRECTV"
+      }
+    },
+    "pageSubHeaders": {
+      "title": "pageSubHeaders",
+      "elements": {
+        "tltTV": "TV",
+        "txtAvailableForLccGenralMsg2": "Please [chat] or call 800.531.5000 to change your package.",
+        "txtAvailableForLccGenralMsgLine1": "Since you’re part of a select group who received an antenna to watch local channels, we can’t change your package online.",
+        "txtAvailableForLccGenralMsg3": "Please [chat] or call <a style='color:#2E70BD;' href='tel:+800.531.5000'>800.531.5000</a> to change your package.",
+        "txtShowWoLocals": "Show packages without local channels",
+        "txtChat": "chat",
+        "tltServices": "Services",
+        "txtShowWithLocals": "Show packages with local channels",
+        "txtAvailableGeneralMsgNoLocals": "All packages come with live 4k streaming at no extra cost. Eligibility is based on service address.",
+        "tltAvailable": "Available packages",
+        "tltCurrentSub": "Current TV package",
+        "tltAddOn": "Add-ons and offers",
+        "txtAvailableGeneralMsg": "All packages come with live 4k streaming, only for select package at no extra cost. Eligibility is based on service address.",
+        "tltCurrentSubBeam": "Current TV Package",
+        "txtAvailableForLcc": "Need to change your package?",
+        "txtAvailableForLocalMsg2": "Please call 800.531.5000 and an agent will help you change your package.",
+        "txtAvailableForLocalMsg3": "Please call <a style='color:#2E70BD;' href='tel:+800.531.5000'>800.531.5000</a> and an agent will help you change your package.",
+        "txtAvailableForMsgLine1": "Because you are part of a select group who have the [PACKAGE] package, we can’t change your package online."
+      }
+    },
+    "compare": {
+      "title": "compare1",
+      "elements": {
+        "lblDescription": "Compare channel lineups"
+      }
+    },
+    "bannerMessage": {
+      "title": "bannerMessage",
+      "elements": {
+        "txtSuccess": "All set we made your changes! Your new [[PACKAGE NAME]] is now available for your viewing pleasure!",
+        "txtFailure": "Sorry couldn't process your request now. Please try again later."
+      }
+    },
+    "currentSubCard": {
+      "title": "currentSubCard",
+      "elements": {
+        "txtEndDate": "Service ends:",
+        "tltOwnedAddOns": "My add-ons",
+        "txtSubPrice": "/mo"
+      }
+    },
+    "addOnTabs": {
+      "title": "addOnTabs",
+      "elements": {
+        "tltPremium": "Premium networks",
+        "tltAdults": "Adult",
+        "tltSplOffer": "Special offers",
+        "tltInternational": "International",
+        "tltTV": "MORE TV",
+        "tltSports": "Sports"
+      }
+    },
+    "cloudDVRAndAddOns": {
+      "title": "cloudDVRAndAddOns",
+      "elements": {
+        "txtPromoPriceEnds": "Promo price ends [[DATE]]",
+        "ctaAdding": "ADDING",
+        "txtmo": "/mo.",
+        "ctaAdd": "ADD",
+        "txtEndDate": "Ends",
+        "ownedAddOnText": "I HAVE THIS",
+        "txtCardExpired": "Your card expired, please update",
+        "ctaSwitchTo": "SWITCH TO",
+        "txtEnds": "Ends ",
+        "txtimageURL": "/dtvassets/images/service/dtvn/logos/att-tv/",
+        "txtStartDate": "Service starts:",
+        "txtChargesStart": "Charges starts:",
+        "txtPng": ".png",
+        "displayNamePeacock": "Enjoy $2 off Peacock Premium",
+        "txtAcctManagement": "Account Management",
+        "txtZero": "0",
+        "ctaRemoving": "REMOVING",
+        "ctaRemove": "REMOVE",
+        "txtCalltoChange": "Please call <a href=”tel:18004354388”>1.800.435.4388</a>. Phone orders only. Online orders are not eligible for this channel.",
+        "addOn": {
+          "elements": {
+            "txtGetOffer": "Nice choice. You'll get ",
+            "appleTvWatchNowLink": "https://www.appletvplus.com",
+            "txtPromoEnds": "Promotion ends",
+            "netflixWatchLink": "https://www.netflix.com",
+            "txtIncluded": "Included in promotion",
+            "ctaWatchNow": "Watch now",
+            "ctaRegister": "Register to watch",
+            "ctaActivate": "Activate now",
+            "txtPremiumChannel": "This premium channel is included in your base package. If you want to remove it, you’ll have to change your base package.",
+            "txtIncludedBasePackage": "Included in base package",
+            "ctaSeeDetails": "See what you get",
+            "txtPrice": "/mo",
+            "peacockWatchLink": "https://www.peacocktv.com/watch",
+            "txtSplOffer": "SPECIAL OFFER"
+          },
+          "title": "addOn"
+        },
+        "txtAriaSeeWhatYouGet": "See what you get about",
+        "txtCallToAdd": "To add a services or make a changes, call <a href=\"tel:8005315000\">800.531.5000</a>",
+        "ctaUndo": "UNDO",
+        "txtSeeMore": "See more",
+        "txtGenericRestriction": "Please call customer service at 800.531.5000 to make changes.",
+        "txtCardExpiresSoon": "Your card is about to expire, please update",
+        "txtAriaAddon": "addon",
+        "ctaSelectedButton": "SELECTED",
+        "txtStarts": "Starts ",
+        "ctaSwitching": "SWITCHING TO",
+        "txtEndsService": "Ends",
+        "txtDollar": "$",
+        "txtSpecialOffer": "SPECIAL OFFER",
+        "ctaRemoved": "REMOVED",
+        "txtPrice": "/mo"
+      }
+    },
+    "sharedPackageInfo": {
+      "title": "sharedPackageInfo",
+      "elements": {
+        "txtSeeAllChannel": "See all channels",
+        "validAgreementStatus": "active,suspended",
+        "packagesRightSized": "BASE-PREMIER-NO-LOCALS_satellite,BASE-PREMIER-ALL-INCLUDED-V2_satellite,BASE-PREMIER_satellite,BASE-PREMIER-ALL-INCLUDED_satellite",
+        "asterisk": "*",
+        "ctaAdding": "ADDING",
+        "retentionBenefitIds": "B100551,B106946,B101081,B100625,B106954,B105720,B101080,B106644,B101210,B100550,B102499,B120524,B103029,B101201",
+        "ctaAdd": "ADD",
+        "showStrikethroughPriceFor": "BOLTON-HBO-MAX-V3_satellite",
+        "txtEndDate": "Ends",
+        "txtProgramming": "Programming subject to change.",
+        "packagesEligibleToRightSize": "BASE-ULTIMATE-NO-LOCALS_satellite,BASE-ULTIMATE-ALL-INCLUDED-V2_satellite,BASE-ULTIMATE_satellite,BASE-ULTIMATE-ALL-INCLUDED_satellite",
+        "catalogInfo": {
+          "BOLTON-HBO-MAX_satellite": {
+            "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container\" style=\"margin-top: 22.0px;margin-bottom: 15.0px;width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/HBO.svg\" alt=\"HBO logo\" style=\"height: 40.0px;\" /></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/assets/content/j6akd76q4v/svg/Channel-Icon-HBOmax-100x100.svg\" alt=\"Max logo\" style=\"height: 50.0px;\" /></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/HBO_OnDemand.svg\" alt=\"HBO on demand logo\" style=\"height: 40.0px;\" /></div></div>",
+            "image": "/dtvassets/sales/directv/logos/add-ons/hbomax-horiz-k.svg",
+            "valuePropModalContent": "<div class='MuiBox-root'><div class='MuiGrid-root MuiGrid-container' style='margin-top: 22px; margin-bottom: 15px;'><div class='MuiGrid-root MuiGrid-item'><img src='/assets/content/qbmdmsdpt8/png/hmx_prop_banner_1000x150.png' alt=': HBO Max shows and movies including A Knight of the Seven Kingdoms, The Pitt, Industry, Euphoria, and House of the Dragon.' style='width: 100%; object-fit: contain;'></div></div><span class='MuiTypography-root MuiTypography-body1' style='font-weight: normal; font-size: 22px; line-height: normal; display: block; padding-bottom: 20px;'>Before you go, did you know…</span><span class='MuiTypography-root MuiTypography-body1 ' style='font-weight: normal; font-size: 16px; line-height: 24px; display: block; padding-bottom: 14px;'>With HBO Max you can stream the most talked about shows and movies featuring the worlds of HBO, the DC Universe, Harry Potter, and beyond on HBO Max.<ul style='line-height: 24px;'><li>A library of iconic favorites like Friends, The Sopranos, The Big Bang Theory, and Sex and The City.</li><li>Enjoy fresh originals like House of The Dragon, Euphoria, and The Pitt.</li><li>Your subscription includes HBO channels, On Demand and access to the HBO Max app.</li><li>Log into the HBO Max app by selecting DIRECTV as your TV provider and use your DIRECTV ID and password to start watching today.</li></ul></span><div class='MuiGrid-root MuiGrid-container' style='justify-content: space-around;margin-top: 22px;margin-bottom: 15px;display: flex;flex-flow: row wrap;width: 100%;'><div class='MuiGrid-root MuiGrid-item' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='/assets/content/j6akd76q4v/svg/Channel-Icon-HBOmax-100x100.svg' alt='HBO Max logo' style='height: 70px; margin-top:-15px;'></div><div class='MuiGrid-root MuiGrid-item' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='https://www.directv.com/dtvassets/images/dtvs/logos/svg/HBO.svg' alt='HBO logo' style='height: 50px;'></div><div class='MuiGrid-root MuiGrid-item' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='https://www.directv.com/dtvassets/images/dtvs/logos/svg/HBO_OnDemand.svg' alt='HBO On Demand logo' style='height: 50px;'></div></div><span class='MuiTypography-root MuiTypography-body1' style='font-weight: normal; font-size: 12px; line-height: normal;'>HBO Max and related elements are property of Home Box Office, Inc. See <a href='https://directv.com/hbomax' target='_blank'>directv.com/hbomax</a> for full terms and conditions.</span><div class='MuiGrid-root MuiGrid-container' style='border-top: 1px solid rgb(151, 151, 151); margin-top: 32px; padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12'><span class='MuiTypography-root MuiTypography-body1' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with your HBO Max premium add-on?</span></div></div></div>",
+            "ariaLabelTag": "HBO Max"
+          },
+          "BOLTON-HBO-MAX-BASIC-WITH-ADS-V1_satellite": {
+            "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container\" style=\"margin-top: 22.0px;margin-bottom: 15.0px;width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/HBO.svg\" alt=\"HBO logo\" style=\"height: 40.0px;\" /></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/assets/content/j6akd76q4v/svg/Channel-Icon-HBOmax-100x100.svg\" alt=\"Max logo\" style=\"height: 50.0px;\" /></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/HBO_OnDemand.svg\" alt=\"HBO on demand logo\" style=\"height: 40.0px;\" /></div></div>",
+            "image": "/dtvassets/sales/directv/logos/add-ons/hbomax-horiz-k.svg",
+            "valuePropModalContent": "<div class='MuiBox-root'><div class='MuiGrid-root MuiGrid-container' style='margin-top: 22px; margin-bottom: 15px;'><div class='MuiGrid-root MuiGrid-item'><img src='/assets/content/qbmdmsdpt8/png/hmx_prop_banner_1000x150.png' alt=': HBO Max shows and movies including A Knight of the Seven Kingdoms, The Pitt, Industry, Euphoria, and House of the Dragon.' style='width: 100%; object-fit: contain;'></div></div><span class='MuiTypography-root MuiTypography-body1' style='font-weight: normal; font-size: 22px; line-height: normal; display: block; padding-bottom: 20px;'>Before you go, did you know…</span><span class='MuiTypography-root MuiTypography-body1 ' style='font-weight: normal; font-size: 16px; line-height: 24px; display: block; padding-bottom: 14px;'>With HBO Max you can stream the most talked about shows and movies featuring the worlds of HBO, the DC Universe, Harry Potter, and beyond on HBO Max.<ul style='line-height: 24px;'><li>A library of iconic favorites like Friends, The Sopranos, The Big Bang Theory, and Sex and The City.</li><li>Enjoy fresh originals like House of The Dragon, Euphoria, and The Pitt.</li><li>Your subscription includes HBO channels, On Demand and access to the HBO Max app.</li><li>Log into the HBO Max app by selecting DIRECTV as your TV provider and use your DIRECTV ID and password to start watching today.</li></ul></span><div class='MuiGrid-root MuiGrid-container' style='justify-content: space-around;margin-top: 22px;margin-bottom: 15px;display: flex;flex-flow: row wrap;width: 100%;'><div class='MuiGrid-root MuiGrid-item' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='/assets/content/j6akd76q4v/svg/Channel-Icon-HBOmax-100x100.svg' alt='HBO Max logo' style='height: 70px; margin-top:-15px;'></div><div class='MuiGrid-root MuiGrid-item' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='https://www.directv.com/dtvassets/images/dtvs/logos/svg/HBO.svg' alt='HBO logo' style='height: 50px;'></div><div class='MuiGrid-root MuiGrid-item' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='https://www.directv.com/dtvassets/images/dtvs/logos/svg/HBO_OnDemand.svg' alt='HBO On Demand logo' style='height: 50px;'></div></div><span class='MuiTypography-root MuiTypography-body1' style='font-weight: normal; font-size: 12px; line-height: normal;'>HBO Max and related elements are property of Home Box Office, Inc. See <a href='https://directv.com/hbomax' target='_blank'>directv.com/hbomax</a> for full terms and conditions.</span><div class='MuiGrid-root MuiGrid-container' style='border-top: 1px solid rgb(151, 151, 151); margin-top: 32px; padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12'><span class='MuiTypography-root MuiTypography-body1' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with your HBO Max premium add-on?</span></div></div></div>",
+            "ariaLabelTag": "HBO Max"
+          },
+          "BOLTON-DIRECTV-SPORTS-PACK_satellite": {
+            "image": "https://www.directv.com/dtvassets/images/dtvs/logos/svg/SportsPack.svg",
+            "valuePropModalContent": "<div class='MuiBox-root css-0'><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; display: block; padding-bottom: 20px; font-size: 22px; line-height: normal;'>All the sports you crave. All in one place.</span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'>Only DIRECTV gives you access to over 40 regional and specialty sports networks from around the country, plus Spectrum SportsNet, ESPN Classic, Outdoor Channel, and more, all in one package. Whatever sport you’re into, you’ll find it all here.*</span><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='justify-content: space-around; margin-top: 22px; margin-bottom: 15px; display: flex; flex-flow: row wrap; width: 100%;'><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='https://www.directv.com/dtvassets/images/dtvs/logos/svg/SportsPack.svg' alt='crime investigation logo' style='height: 50px;'></div></div><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 12px; line-height: normal;'>*Blackout restrictions and other conditions apply to sports programming. All programming is subject to change at any time.</span><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='border-top: 1px solid rgb(151, 151, 151); margin-top: 32px; padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root'><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with your DIRECTV SPORTS PACK premium add-on?</span></div></div></div>"
+          },
+          "BOLTON-MEDIASET-ITALIA": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-AMC-PLUS": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/amcplus-c.svg"
+          },
+          "BOLTON-BRAZILIAN-DIRECT-I": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-TV-JAPAN-DTV": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-SPECIAL-PRICE-SHOWTIME-V2_satellite": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg"
+          },
+          "B101080": {
+            "VAGR-HBO-24MO-V2": {
+              "duration": "24",
+              "agreementId": "VAGR-HBO-24MO-V2",
+              "description": "First 24 mos. $5.00 off, auto-renews at prevailing price thereafter.",
+              "promotionAmount": "5.00"
+            },
+            "defaultAgreementId": "VAGR-HBO-24MO-V2",
+            "serviceId": "BOLTON-HBO-MAX_satellite"
+          },
+          "B101081": {
+            "defaultAgreementId": "VAGR-CINEMAX-3MO-V13",
+            "VAGR-CINEMAX-3MO-V13": {
+              "duration": "3",
+              "agreementId": "VAGR-CINEMAX-3MO-V13",
+              "description": "$4.00 off Cinemax for 3 months",
+              "promotionAmount": "4.00"
+            },
+            "serviceId": "BOLTON-CINEMAX_satellite",
+            "VAGR-CINEMAX-3MO-V14": {
+              "duration": "3",
+              "agreementId": "VAGR-CINEMAX-3MO-V14",
+              "description": "$5.50 off Cinemax for 3 months",
+              "promotionAmount": "5.49"
+            }
+          },
+          "BOLTON-RAI-DIRECT": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "B106644": {
+            "VAGR-EPIX-3MO-V1": {
+              "duration": "3",
+              "agreementId": "VAGR-EPIX-3MO-V1",
+              "description": "$2.99 off Epix for 3 months",
+              "promotionAmount": "3.00"
+            },
+            "defaultAgreementId": "VAGR-EPIX-3MO-V1",
+            "serviceId": "BOLTON-EPIX_satellite"
+          },
+          "BASE-MAS-ULTRA": {
+            "txtDescription": [
+              "Over 60 Spanish-language channels",
+              "Over 145 English-language channels"
+            ]
+          },
+          "BOLTON-CINEMAX_satellite": {
+            "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/Cinemax.svg\" alt=\"cinemax logo\" style=\"height: 40.0px;\" /></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/Cinemax_OnDemand.svg\" alt=\"Cinemax OnDemand logo\" style=\"height: 40.0px;\" /></div></div>",
+            "image": "/dtvassets/sales/directv/logos/add-ons/cinemax-k.svg",
+            "valuePropModalContent": "<div class=\"MuiBox-root css-0\"><div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"margin-top: 22.0px;margin-bottom: 15.0px;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"\"><img src=\"/assets/content/emidw5j3ts/png/hmx_prop_banner_1000x150_cinemax.png\" alt=\"Cinemax shows and movies including Godzilla and Kong, IT, Robin Hood, Heretic, and Wonder Woman.\" style=\"width: 100.0%;\" /></div></div><span class=\"MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root\" style=\"font-weight: normal;font-size: 22.0px;line-height: normal;display: block;padding-bottom: 20.0px;\">Before you decide:</span> <span class='MuiTypography-root MuiTypography-body1 ' style='font-weight: normal; font-size: 16px; line-height: 24px; display: block; padding-bottom: 14px;'>Cinemax is a wild ride guaranteed to keep you on the edge of your seat with nonstop movies that you want to watch, including 24/7 access to action packed movies, thrillers, Hollywood blockbusters, and more.</span><span class=\"MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root\" style=\"font-weight: normal;font-size: 16.0px;line-height: normal;\"><ul style=\"line-height: 24.0px;margin-top: 0.0px;\">   <li>You don’t want to miss out on critically acclaimed classics like <i>The Iron Claw.</i></li>   <li>Enjoy Hollywood hits like Godzilla x Kong: The New Empire and The Mummy.</li>   <li>Watch live or anytime on demand – however you want to watch, we’ve got you covered!</li></ul></span><div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"margin-top: 22.0px;margin-bottom: 15.0px;width: 100.0%; display: flex; flex-wrap: wrap; padding: 0 70px;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;text-align: center;\"><img src=\"https://www.directv.com/dtvassets/sales/directv/logos/add-ons/cinemax-c.svg\" alt=\"Cinemax logo\" style=\"height: 40.0px;\" /></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;text-align: center;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/Cinemax_OnDemand.svg\" alt=\"Cinemax On Demand logo\" style=\"height: 50.0px;\" /></div></div><span class=\"MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root\" style=\"font-weight: normal;font-size: 12.0px;line-height: normal;\">CINEMAX® and related channels and service marks are the property of Home Box Office, Inc.</span><div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"border-top: 1.0px solid rgb(151,151,151);margin-top: 32.0px;padding-top: 25.0px;\"><div class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root\"><span class=\"MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root\" style=\"font-weight: normal;font-size: 18.0px;line-height: normal;\">What would you like to do with your CINEMAX premium add-on?</span></div></div></div>",
+            "ariaLabelTag": "Cinemax"
+          },
+          "BOLTON-SPECIAL-PRICE-SHOWTIME_satellite": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg",
+            "valuePropModalContent": "<div class='MuiBox-root css-0'><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='margin-top: 22px; margin-bottom: 15px;'><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style=''><img src='https://www.directv.com/dtvassets/images/dtvs/logos/jpg/ParamountPlusShowtime_header.jpg' alt='City on a Hill. Shameless. The CHI. Black Monday.  BELLATOR MMA™.' style='width: 100%;object-fit: contain;'></div></div><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal;font-size: 22px;line-height: normal;display: block;padding-bottom: 20px;'>We’d hate to see you go!</span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;display: block;padding-bottom: 15px;'>Don't leave without fully enjoying one of the most successful programming lineups in television! </span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;display: block;'>Featuring Critically Acclaimed Originals and Fan Favorites such as:</span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'><ul style='line-height: 24px; margin-top: 0px;'><li>Yellowjackets, The Chi, Dexter®: New Blood, Billions®, and The First Lady</li><li>Provocative documentaries including the Academy Award®-nominated ATTICA</li><li>Box-office hit films, comedy, and music specials</li><li>Hard-hitting Sports with SHOWTIME CHAMPIONSHIP BOXING® and BELLATOR MMA™ live events</li><li>Watch whenever you want with SHOWTIME ON DEMAND® and SHOWTIME ANYTIME® — free with your subscription</li></ul></span><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='justify-content: space-around;margin-top: 22px;margin-bottom: 15px;display: flex;flex-flow: row wrap;    width: 100%;'><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='https://www.directv.com/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg' alt='SHOWTIME logo' style='height: 50px;'></div><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='https://www.directv.com/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg' alt='SHOWTIME ON DEMAND logo' style='height: 50px;'></div><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='https://www.directv.com/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg' alt='SHOWTIME ANYTIME logo' style='height: 50px;'></div></div><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 12px; line-height: normal;'>SHOWTIME and related marks are trademarks of Showtime Networks Inc., a Paramount Company. Individual programs, devices and marks are the property of their respective owners. All Rights Reserved. You must be a subscriber of SHOWTIME to get SHOWTIME ON DEMAND and SHOWTIME ANYTIME.</span><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='border-top: 1px solid rgb(151, 151, 151); margin-top: 32px; padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root'><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with your SHOWTIME premium add-on?</span></div></div></div>"
+          },
+          "B106642": {
+            "defaultAgreementId": "VAGR-EPIX-3MO-V4",
+            "serviceId": "BOLTON-EPIX_satellite",
+            "VAGR-EPIX-3MO-V4": {
+              "duration": "3",
+              "agreementId": "VAGR-EPIX-3MO-V4",
+              "description": "$5 off EPIX for 3 months",
+              "promotionAmount": "5.00"
+            }
+          },
+          "BOLTON-BRAZZERS": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/brazzers-c.svg"
+          },
+          "BOLTON-SPECIAL-PRICE-SPORTS": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/sportspack-c.svg",
+            "imageUrl": "/dtvassets/sales/directv/logos/add-ons/sportspack-k.svg"
+          },
+          "BOLTON-ITALIAN-DIRECT": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-MLB-EXTRA-INNINGS": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/mlbextrainnings-c.svg"
+          },
+          "BOLTON-LIFETIME-MOVIE-CLUB": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/lifetimemovieclub-c.svg"
+          },
+          "BOLTON-FOX-NATION": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/foxnation-c.svg"
+          },
+          "BOLTON-HBO-MAX": {
+            "image": "/assets/content/j6akd76q4v/svg/Channel-Icon-HBOmax-100x100.svg",
+            "imageUrl": "/dtvassets/sales/directv/logos/add-ons/max-horiz-k.svg"
+          },
+          "BOLTON-SHOWTIME_satellite": {
+            "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg\" alt=\"Paramount plus with showtime log\" style=\"height: 40.0px;\" /></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\" /></div></div>",
+            "image": "/dtvassets/images/dtvs/logos/svg/paramountplusshowtime.svg",
+            "valuePropModalContent": "<div class=\"MuiBox-root css-0\"><div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"margin-top: 22px; margin-bottom: 15px;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"\"><img src=\"/dtvassets/images/dtvs/logos/jpg/ParamountPlusShowtime_header.jpg\" alt=\"Paramount plus with Showtime shows and movies including Dreaming Whilst Black, School Spirits, and Coldwater.\" style=\"width: 100%;object-fit: contain;\"></div></div><span class=\"MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root\" style=\"font-weight: normal;font-size: 22px;line-height: normal;display: block;padding-bottom: 20px;\">We’d hate to see you go!</span><span class=\"MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root\" style=\"font-weight: normal; font-size: 16px; line-height: normal;display: block;\">Don’t leave! Paramount+ with SHOWTIME has it ALL: originals, movies, documentaries and more. It’s the ultimate destination for all your entertainment needs.</span><br><span class=\"MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root\" style=\"font-weight: normal; font-size: 16px; line-height: normal;\"><ul style=\"line-height: 24px; margin-top: 0px;\"><li>Access to the ad-free* Premium plan on the Paramount+ app at no additional charge!</li><li>Thrilling SHOWTIME Originals like Dexter: Resurrection, The Chi, and Yellowjackets.</li><li>Popular Paramount+ Originals like School Spirits, Lioness, and MobLand.</li><li>EVEN MORE entertainment like hit Paramount+ Originals Landman & Tulsa King, Live CBS Sports, and blockbuster movies like Mission: Impossible - The Final Reckoning  with the Premium plan on the Paramount+ app.</li></ul></span><div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"justify-content: space-around; margin-top: 22px; margin-bottom: 15px; display: flex; flex-flow: wrap; width: 100%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20px auto; display: block; padding: 0px; text-align: center;\"></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20px auto; display: block; padding: 0px; text-align: center;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/paramountplusshowtime.svg\" alt=\"“Paramount plus with Showtime logo\" style=\"height: 50px;\"></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20px auto; display: block; padding: 0px; text-align: center;\"></div></div><span class=\"MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root\" style=\"font-weight: normal; font-size: 12px; line-height: normal;\">*Ad-free except live TV and a few shows. <br> Paramount+ with Showtime ©2026 Paramount Skydance Corporation. SHOWTIME and related marks are trademarks of Showtime Networks Inc. Paramount+ and related marks are trademarks of Paramount Pictures Corporation. Individual programs, devices and marks are the property of their respective owners.</span></div>",
+            "ariaLabelTag": "Paramount plus with Showtime"
+          },
+          "BOLTON-HISTORY-VAULT": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/hvault-horiz-c.svg"
+          },
+          "BOLTON-MLS-DIRECT-KICK": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/mlsdirectkick-c.svg"
+          },
+          "BOLTON-EN-ESPA-AND-NTIDLE-OL-AND-TRADE": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-VIET-DIRECT-PLUS": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-UP-FAITH-FAMILY": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/upff-horiz-c.svg"
+          },
+          "BOLTON-PENTHOUSE-TV": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/penthousetv-k.svg"
+          },
+          "BOLTON-KOREAN-DIRECT-GOLF": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-NHL-CENTER-ICE": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/nhlcenterice-c.svg"
+          },
+          "BOLTON-NBA-LEAGUE-PASS-2021-22-V3_Satellite": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/nbaleaguepass-vert-c.svg"
+          },
+          "B106946": {
+            "defaultAgreementId": "VAGR-STARZ-3MO-V13",
+            "VAGR-STARZ-3MO-V13": {
+              "duration": "3",
+              "agreementId": "VAGR-STARZ-3MO-V13",
+              "description": "$4.00 off Starz for 3 months",
+              "promotionAmount": "4.00"
+            },
+            "serviceId": "BOLTON-STARZ_satellite"
+          },
+          "BOLTON-CINEMAX": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/cinemax-c.svg",
+            "imageUrl": "/dtvassets/sales/directv/logos/add-ons/cinemax-k.svg"
+          },
+          "BOLTON-AMERICAS-PLUS": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-DIRECTV-DEPORTES": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-PANTAYA": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/pantaya-c.svg"
+          },
+          "BOLTON-TENNIS-CHANNEL_Satellite": {
+            "image": "/dtvassets/sales/uf/tv/logos/Tennis_Channel_logo.png"
+          },
+          "BOLTON-DIRECTV-SPORTS-PACK": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/sportspack-c.svg",
+            "imageUrl": "/dtvassets/sales/directv/logos/add-ons/sportspack-k.svg"
+          },
+          "BOLTON-EPIX_satellite": {
+            "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/sales/directv/logos/add-ons/MGMplus-cgrad.svg\" alt=\"MGM plus logo\" style=\"height: 40.0px;\" /></div></div>",
+            "image": "/dtvassets/sales/directv/logos/add-ons/MGMplus-cgrad.svg",
+            "valuePropModalContent": "<div class=\"MuiBox-root css-0\"><div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"margin-top: 22.0px;margin-bottom: 15.0px;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"\"><img src=\"/assets/content/1ytmefoexb/png/STMS-ValueProp-MGMPMulti_MAR026_RibbonImage_DTVCOM_1000x150_en-US.png\" alt=\"MGM plus shows and movies including Vanished, American Classic, FROM, Mission Impossible the final reckoning and Roofman.\" style=\"width: 100.0%;\" /></div></div><span class=\"MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root\" style=\"font-size: 22.0px;line-height: normal;display: block;padding-bottom: 20.0px;\"><b>MGM+ - THE BEST DEAL IN ENTERTAINMENT</b></span> <span class='MuiTypography-root MuiTypography-body1 ' style='font-weight: normal; font-size: 16px; line-height: 24px; display: block; padding-bottom: 14px;'>On TV, On Demand, Online, and across devices</span><span class=\"MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root\" style=\"font-weight: normal;font-size: 16.0px;line-height: normal;\"><ul style=\"line-height: 24.0px;margin-top: 0.0px;\"><li><b>Exclusive Originals:</b> Acclaimed slate of scripted series and compelling docuseries - including mystery thriller <b><i>Vanished</i></b>, sci-fi horror <b><i>FROM</i></b>, the latest comedy drama <b><i>American Classic</i></b> and true crime doc <b><i>The Hillside Strangler</i></b> to name a few.</li><li><b>1000s of Movies:</b> Newly released films plus blockbuster movies, iconic film franchises, and fan favorites from Amazon MGM and other Hollywood studios.</li><li><b>Anytime, Anywhere Access with the MGM+ app:</b> Download movies and episodes for offline viewing, authenticate to an unlimited number of devices, stream on up to 4 devices at the same time & watch live channels.</li></ul></span><div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"margin-top: 22.0px;margin-bottom: 15.0px;width: 100.0%; display: flex; flex-wrap: wrap; padding: 0 70px;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0px; text-align: center; align-self: center;\"><img src=\"https://www.directv.com/dtvassets/sales/directv/logos/add-ons/MGMplus-cgrad.svg\" alt=\"MGM plus logo\" style=\"height: 50.0px;\" /></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;text-align: center;\"><img src=\"https://www.directv.com/dtvassets/sales/directv/logos/add-ons/mgmplus_app.svg\" alt=\"MGM plus App logo\" style=\"height: 100.0px; width:100.0px;\" /></div></div><span class=\"MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root\" style=\"font-weight: bold;font-size: 12.0px;line-height: normal;\">MGM+ is a trademark of Metro-Goldwyn-Mayer Lion Corp.</span><div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"border-top: 1.0px solid rgb(151,151,151);margin-top: 32.0px;padding-top: 25.0px;\"><div class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root\"><span class=\"MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root\" style=\"font-weight: normal;font-size: 18.0px;line-height: normal;\">What would you like to do with your MGM+ premium add-on?</span></div></div></div>",
+            "ariaLabelTag": "MGM plus"
+          },
+          "BOLTON-A-AND-E-CRIME-CENTRAL": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/aecc-horiz-c.svg"
+          },
+          "BOLTON-NBA-LEAGUE-PASS": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/nbaleaguepass-vert-c.svg"
+          },
+          "B103029": {
+            "VAGR-CHOICE-3MO-V3": {
+              "duration": "3",
+              "agreementId": "VAGR-CHOICE-3MO-V3",
+              "description": "$32 off for 3 Months_B103029",
+              "promotionAmount": "32.00"
+            },
+            "VAGR-ULTIMATE-2MO-V2": {
+              "duration": "2",
+              "agreementId": "VAGR-ULTIMATE-2MO-V2",
+              "description": "$32 off for 2 Months_B103029",
+              "promotionAmount": "32.00"
+            },
+            "defaultAgreementId": "VAGR-ULTIMATE-3MO-V2",
+            "VAGR-ULTIMATE-3MO-V2": {
+              "duration": "3",
+              "agreementId": "VAGR-ULTIMATE-3MO-V2",
+              "description": "3 Month Upgrade: Choice to Ultimate ($90.00 Value)",
+              "promotionAmount": "30.00"
+            },
+            "serviceId": "[BASE-ULTIMATE_satellite,BASE-ULTIMATE-ALL-INCLUDED_satellite,BASE-ULTIMATE-NO-LOCALS_satellite,BASE-ULTIMATE-ALL-INCLUDED-NO-LOCALS_satellite]"
+          },
+          "B100552": {
+            "defaultAgreementId": "VAGR-SPORTS-1MO-V2",
+            "VAGR-ULTIMATE-3MO-V2": {
+              "duration": "1",
+              "agreementId": "VAGR-SPORTS-1MO-V2",
+              "description": "$13.99 off SPORTS PACK for 1 month",
+              "promotionAmount": "13.99"
+            },
+            "serviceId": "BOLTON-DIRECTV-SPORTS-PACK_satellite"
+          },
+          "B100551": {
+            "defaultAgreementId": "VAGR-SHOWTIME-3MO-V33",
+            "VAGR-SHOWTIME-3MO-V34": {
+              "duration": "3",
+              "agreementId": "VAGR-SHOWTIME-3MO-V34",
+              "description": "$5.50 off Showtime for 3 months",
+              "promotionAmount": "5.50"
+            },
+            "VAGR-SHOWTIME-3MO-V33": {
+              "duration": "3",
+              "agreementId": "VAGR-SHOWTIME-3MO-V33",
+              "description": "$4.00 off Showtime for 3 months",
+              "promotionAmount": "4.00"
+            },
+            "serviceId": "BOLTON-SHOWTIME_satellite",
+            "VAGR-SHOWTIME-3MO-V37": {
+              "duration": "3",
+              "agreementId": "VAGR-SHOWTIME-3MO-V37",
+              "description": "$10 off Showtime for 3 Months",
+              "promotionAmount": "10.00"
+            },
+            "VAGR-SHOWTIME-3MO-V36": {
+              "duration": "3",
+              "agreementId": "VAGR-SHOWTIME-3MO-V36",
+              "description": "$6.00 off Showtime for 3 months",
+              "promotionAmount": "6.00"
+            }
+          },
+          "B100550": {
+            "defaultAgreementId": "VAGR-STARZ-3MO-V14",
+            "VAGR-STARZ-3MO-V14": {
+              "duration": "3",
+              "agreementId": "VAGR-STARZ-3MO-V14",
+              "description": "$5.50 off STARZ for 3 months",
+              "promotionAmount": "5.50"
+            },
+            "serviceId": "BOLTON-STARZ_satellite"
+          },
+          "BOLTON-SHOWTIME": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg",
+            "imageUrl": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg"
+          },
+          "BOLTON-MEXICO-PLUS": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BASE-LO-MAXIMO": {
+            "txtDescription": [
+              "Over 60 Spanish-language channels",
+              "Over 235 English-language channels",
+              "Every premium movie channel included",
+              "Over 35 specialty sports networks like GolTV, YES Network, and many more"
+            ],
+            "header": "THE ONE WITH THE MOST"
+          },
+          "BOLTON-NBA-LEAGUE-PASS-2021-22_Satellite": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/nbaleaguepass-vert-c.svg"
+          },
+          "B105720": {
+            "VAGR-HBO-FreeTrial-2MO-V1": {
+              "duration": "2",
+              "agreementId": "VAGR-HBO-FreeTrial-2MO-V1",
+              "description": "$15.99 off Max for 2 months",
+              "promotionAmount": "15.99"
+            },
+            "defaultAgreementId": "VAGR-HBO-FreeTrial-2MO-V1",
+            "serviceId": "BOLTON-HBO-MAX_satellite"
+          },
+          "BOLTON-SPECIAL-PRICE-SHOWTIME": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime.svg"
+          },
+          "BASE-CHOICE": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Choice_Logos.svg",
+            "css": "orange",
+            "txtDescription": [
+              "The package that beats cable",
+              "Includes all the top entertainment, news, sports, and local sports channels"
+            ],
+            "header": "MUST-HAVE SPORTS & MORE"
+          },
+          "BOLTON-CHINESE-DIRECT": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BASE-MAS-LATINO": {
+            "txtDescription": [
+              "Over 45 Spanish-language channels",
+              "Over 50 English-language channels"
+            ],
+            "header": "THE ESSENTIALS"
+          },
+          "BOLTON-TV-GLOBO": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BASE-OPTIMO-MAS": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Optimomas.png",
+            "txtDescription": [
+              "Over 50 Spanish-language channels",
+              "Over 105 English-language channels"
+            ],
+            "header": "THE ESSENTIALS"
+          },
+          "BASE-XTRA": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Xtra_Logos.svg",
+            "txtDescription": [
+              "Our most popular package",
+              "More channels than the SELECT ALL INCLUDED package",
+              "More movies, and sports programs at a better value",
+              "No extra fees for the first room. $7.00 a month for each additional TV with service"
+            ],
+            "header": "THE ONE WITH THE MOST"
+          },
+          "BOLTON-REVRY": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/revry-cw.svg"
+          },
+          "BOLTON-EPIX": {
+            "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/sales/directv/logos/add-ons/MGMplus-cgrad.svg\" alt=\"MGM plus logo\" style=\"height: 40.0px;\" /></div></div>",
+            "image": "/dtvassets/sales/directv/logos/add-ons/MGMplus-cgrad.svg",
+            "valuePropModalContent": "<div class='MuiBox-root css-0'><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='margin-top: 22px; margin-bottom: 15px;'><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style=''><img src='/dtvassets/images/dtvs/logos/jpg/MGM_header.jpg' alt='Image banner featuring MGM+ shows' style='width: 100%; object-fit: contain;'></div></div><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: bold; font-size: 22px; line-height: normal; display: block; padding-bottom: 20px;'>MGM+™ - This is Entertainment </span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'><ul style='line-height: 24px; margin-top: 0px;'><li>Critically acclaimed original series including sci-fi, horror <b>FROM</b>, Emmy-winner <b>Godfather of Harlem</b>, western adventure <b>Billy the Kid</b>, and cinematic dramas <b>Belgravia: The Next Chapter</b> and <b>Beacon 23</b></li><li>Compelling docuseries including <b>NFL Icons</b> and <b>San Francisco Sounds: A Place in Time</b> and for fans of true-crime docs <b>Psycho: The Lost Tapes of Ed Gein</b> and <b>Amityville: An Origin Story</b> among others</li><li>Newly released films from MGM and Paramount, like <b>Transformers: Rise of the Beasts, Creed III</b> and <b>Teenage Mutant Ninja Turtles: Mutant Mayhem</b> plus blockbuster movies and classic film franchises from James Bond to Rocky</li><li>Anytime, anywhere access with the <b>MGM+™ app</b> — download movies and episodes for offline viewing, authenticate to 6 devices & watch live channels</li></ul></span><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='justify-content: space-around;margin-top: 22px;margin-bottom: 15px; display: flex; flex-flow: row wrap;width: 100%;'><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='https://www.directv.com/dtvassets/sales/directv/logos/add-ons/MGMplus-cgrad.svg' alt='MGM plus logo' style='height: 50px;'></div></div><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: bold; font-size: 12px; line-height: normal;'>MGM+ is a trademark of Metro-Goldwyn-Mayer Lion Corp. Billy the Kid © 2022 - 2023 MGMPlus Studios LLC. All Rights Reserved. Belgravia: The Next Chapter © Carnival Film & Television Limited 2023.  All Rights Reserved. Beacon 23 © Pharus, LLC 2023. All Rights Reserved. Transformers: Rise of the Beasts © 2024 Paramount Pictures. All Rights Reserved. Hasbro, Transformers and All Related Characters are Trademarks of Hasbro. © 2023 Hasbro. All Rights Reserved. Creed III © 2023 Metro-Goldwyn-Mayer Studios Inc. All Rights Reserved. Creed is a trademark of Metro-Goldwyn-Mayer Studios Inc. All Rights Reserved. Teenage Mutant Ninja Turtles: Mutant Mayhem © 2024 Paramount Pictures. All Rights Reserved. Teenage Mutant Ninja Turtles is a trademark of Viacom International Inc.</span><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='border-top: 1px solid rgb(151, 151, 151); margin-top: 32px; padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root'><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with your MGM+ premium add-on?</span></div></div></div>",
+            "imageUrl": "/dtvassets/sales/directv/logos/add-ons/MGMplus-cgrad.svg"
+          },
+          "BOLTON-JAPAN-DIRECT-TV-JAPAN": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-VIVID-TV": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/vividtv-c.svg"
+          },
+          "BOLTON-SBTN": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "B100625": {
+            "VAGR-HDEXTRAPACK-3MO-V8": {
+              "duration": "3",
+              "agreementId": "VAGR-HDEXTRAPACK-3MO-V8",
+              "description": "$2.50 off for 3 months",
+              "promotionAmount": "2.50"
+            },
+            "defaultAgreementId": "VAGR-HDEXTRAPACK-3MO-V8",
+            "serviceId": "BOLTON-MOVIES-EXTRA-PACK_satellite"
+          },
+          "BOLTON-MOVIES-EXTRA-PACK": {
+            "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/Crime+Investigation.svg\" alt=\"crime investigation logo\" style=\"height: 40.0px;\" /></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/Hallmark.svg\" style=\"height: 40.0px;\" /></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/HDNet_Movies.svg\" alt=\"HDNet Movies logo\" style=\"height: 40.0px;\" /></div></div>",
+            "image": "/assets/content/b7jxoppxfh/svg/Channel-Icon-Peacock-MEP-100x100.svg",
+            "valuePropModalContent": "<div class='MuiBox-root css-0'><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='margin-top: 22px; margin-bottom: 15px;'><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style=''><img src='https://www.directv.com/dtvassets/images/dtvs/logos/jpg/moviesextrapack_header.jpg' alt='' style='width: 100%; object-fit: contain;'></div></div><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; display: block; padding-bottom: 20px; font-size: 22px; line-height: normal;'>Don’t miss out on your favorite movies and shows!</span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'>Movies Extra Pack has it all! Family favorites, movies, mysteries, and more!</span> <span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'><ul style='line-height: 24px;'><li>New mysteries and originals with <b>Hallmark Mystery</b> and <b>Hallmark Family.</b></li><li>Nonstop movies on <b>Sony Movie Channel</b> and <b>HDNET movies</b>.</li><li>Music videos and concerts on <b>MTV Live</b></li><li>Riveting documentaries on <b>Smithsonian Channel</b></li><li>Infamous crime stories on <b>Crime + Investigation</b></li><li>High quality short movies and series on <b>SHORTSTV</b></li></ul></span><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='justify-content: space-around; margin-top: 22px; margin-bottom: 15px; display: flex; flex-flow: row wrap; width: 100%;'><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='https://www.directv.com/dtvassets/images/dtvs/logos/svg/MOVIESEXTRAPACK.svg' hallmark='' logo='' alt='Movies Extra Pack logo' style='height: 70px;'></div></div><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='border-top: 1px solid rgb(151, 151, 151); margin-top: 32px; padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root'><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with your Movies Extra Pack premium add-on?</span></div></div></div>",
+            "P6688/1": [
+              {
+                "preBatch": "true",
+                "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 34px auto 5px;display: block;padding: 0px;text-align: center;\"><img src=\"https://www.directv.com[[imageURL]]\" alt=\"movies extra pack logo\" style=\"height: 40.0px;\" /></div></div>",
+                "image": "https://www.directv.com/dtvassets/sales/directv/logos/add-ons/moviesextrapack-c.svg",
+                "tltDialog": "<b>Special offer: [[displayName]] </b>",
+                "txtDialogContent": "<br/>You have a limited time option to get the current [[displayName]] add-on for the current price of $[[Amount]]/mo.<br/> <br/> If you choose this option, you will not be upgraded to Movies Extra Pack + Peacock.",
+                "valuePropModalContent": "<span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; display: block; padding-bottom: 20px; font-size: 22px; line-height: normal;'>Movies Extra Pack is getting bigger and better - Peacock Premium is coming soon!</span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'>With Peacock Premium included you will be able to stream your favorite movies in the universe, hit series, exclusive originals, live sports, next day episodes from NBC & Bravo and more on the Peacock app or at <a href='https://www.peacocktv.com' target='_blank' data-linkPosition= 'modal_peacocktv.com' data-linkDestination= 'https://www.peacocktv.com'  id= 'peacocktv.com'>peacocktv.com.</a></span> </br></br><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'>In the meantime, you can continue to watch all your favorite Movies Extra Pack channels. At the start of your next billing period, Peacock Premium will be added to Movies Extra Pack and the price will change to $9.99/mo. Once Peacock is available, you will receive an email with instructions on how to activate your account.</span><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 32px auto 32px auto;display: block;padding: 0.0px;text-align: center;\"><img src=\"https://www.directv.com/assets/content/b7jxoppxfh/svg/Channel-Icon-Peacock-MEP-100x100.svg\" alt=\"Movies Extra Pack + Peacock logo\" style=\"height: 90.0px;\" /></div><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='border-top: 1px solid rgb(151, 151, 151); margin-top: 32px; padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root'><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with your Movies Extra pack?</span></div></div></div>"
+              },
+              {
+                "preBatch": "false",
+                "peacockIncluded": "true",
+                "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 34px auto 5px;display: block;padding: 0px;text-align: center;\"><img src=\"https://www.directv.com[[imageURL]]\" alt=\"movies extra pack logo\" style=\"height: 40.0px;\" /></div></div>",
+                "image": "https://www.directv.com/dtvassets/sales/directv/logos/add-ons/moviesextrapack-c.svg",
+                "tltDialog": "<b>Special offer: [[displayName]]</b>",
+                "txtDialogContent": "<br/>You have a limited time option to get the current [[displayName]] add-on for the current price of $[[Amount]]/mo.",
+                "valuePropModalContent": "<span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; display: block; padding-bottom: 20px; font-size: 22px; line-height: normal;'>Don’t miss out on your favorite movies, shows, and sports with Movie Extra Pack + Peacock!</span><span>Movies Extra Pack has 8 premium channels including:</span><ul style=\"line-height: 24.0px;margin-top: 0.0px;\"><li>New mysteries and originals with <b>Hallmark Mystery</b> and <b>Hallmark Family</b></li><li>Nonstop movies on <b>Sony Movie Channel</b> and <b>HDNET movies</b></li><li>Music videos and concerts on <b>MTV Live</b></li><li>Riveting documentaries on <b>Smithsonian Channel</b></li><li>Infamous crime stories on <b>Crime + Investigation</b></li></ul><span><b>And with Peacock Premium, you can steam so much more!</b></span><ul style=\"line-height: 24.0px;margin-top: 0.0px;\"><li>Hit TV shows, exclusive Originals, live sports and events, your favorite movies in the universe and next-days episodes from <b>NBC & Bravo.</b></li><li>Access select NBC sports events on channel 619.</li></ul></span></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 32px auto 32px auto;display: block;padding: 0.0px;text-align: center;\"><img src=\"https://www.directv.com/assets/content/b7jxoppxfh/svg/Channel-Icon-Peacock-MEP-100x100.svg\" alt=\"Movies Extra Pack + Peacock logo\" style=\"height: 90.0px;\" /></div><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='border-top: 1px solid rgb(151, 151, 151); padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root'><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with your Movie Extra Pack + Peacock premium?</span></div></div></div>"
+              }
+            ],
+            "P6688/12": [
+              {
+                "preBatch": "true",
+                "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 34px auto 5px;display: block;padding: 0px;text-align: center;\"><img src=\"https://www.directv.com[[imageURL]]\" alt=\"movies extra pack logo\" style=\"height: 40.0px;\" /></div></div>",
+                "image": "https://www.directv.com/dtvassets/sales/directv/logos/add-ons/moviesextrapack-c.svg",
+                "tltDialog": "<b>Special offer: [[displayName]] </b>",
+                "txtDialogContent": "<br/>You have a limited time option to get the current [[displayName]] add-on for the current price of $[[Amount]]/mo.<br/> <br/> If you choose this option, you will not be upgraded to Movies Extra Pack + Peacock.",
+                "valuePropModalContent": "<span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; display: block; padding-bottom: 20px; font-size: 22px; line-height: normal;'>Movies Extra Pack is getting bigger and better - Peacock Premium is coming soon!</span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'>With Peacock Premium included you will be able to stream your favorite movies in the universe, hit series, exclusive originals, live sports, next day episodes from NBC & Bravo and more on the Peacock app or at <a href='https://www.peacocktv.com' target='_blank' data-linkPosition= 'modal_peacocktv.com' data-linkDestination= 'https://www.peacocktv.com'  id= 'peacocktv.com'>peacocktv.com.</a></span> </br></br><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'>In the meantime, you can continue to watch all your favorite Movies Extra Pack channels. At the start of your next billing period, Peacock Premium will be added to Movies Extra Pack and the price will change to $9.99/mo. Once Peacock is available, you will receive an email with instructions on how to activate your account.</span><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 32px auto 32px auto;display: block;padding: 0.0px;text-align: center;\"><img src=\"https://www.directv.com/assets/content/b7jxoppxfh/svg/Channel-Icon-Peacock-MEP-100x100.svg\" alt=\"Movies Extra Pack + Peacock logo\" style=\"height: 90.0px;\" /></div><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='border-top: 1px solid rgb(151, 151, 151); margin-top: 32px; padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root'><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with your Movies Extra pack?</span></div></div></div>"
+              },
+              {
+                "preBatch": "false",
+                "peacockIncluded": "true",
+                "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 34px auto 5px;display: block;padding: 0px;text-align: center;\"><img src=\"https://www.directv.com[[imageURL]]\" alt=\"movies extra pack logo\" style=\"height: 40.0px;\" /></div></div>",
+                "image": "https://www.directv.com/dtvassets/sales/directv/logos/add-ons/moviesextrapack-c.svg",
+                "tltDialog": "<b>Special offer: [[displayName]]</b>",
+                "txtDialogContent": "<br/>You have a limited time option to get the current [[displayName]] add-on for the current price of $[[Amount]]/mo.",
+                "valuePropModalContent": "<span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; display: block; padding-bottom: 20px; font-size: 22px; line-height: normal;'>Don’t miss out on your favorite movies, shows, and sports with Movie Extra Pack + Peacock!</span><span>Movies Extra Pack has 8 premium channels including:</span><ul style=\"line-height: 24.0px;margin-top: 0.0px;\"><li>New mysteries and originals with <b>Hallmark Mystery</b> and <b>Hallmark Family</b></li><li>Nonstop movies on <b>Sony Movie Channel</b> and <b>HDNET movies</b></li><li>Music videos and concerts on <b>MTV Live</b></li><li>Riveting documentaries on <b>Smithsonian Channel</b></li><li>Infamous crime stories on <b>Crime + Investigation</b></li></ul><span><b>And with Peacock Premium, you can steam so much more!</b></span><ul style=\"line-height: 24.0px;margin-top: 0.0px;\"><li>Hit TV shows, exclusive Originals, live sports and events, your favorite movies in the universe and next-days episodes from <b>NBC & Bravo.</b></li><li>Access select NBC sports events on channel 619.</li></ul></span></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 32px auto 32px auto;display: block;padding: 0.0px;text-align: center;\"><img src=\"https://www.directv.com/assets/content/b7jxoppxfh/svg/Channel-Icon-Peacock-MEP-100x100.svg\" alt=\"Movies Extra Pack + Peacock logo\" style=\"height: 90.0px;\" /></div><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='border-top: 1px solid rgb(151, 151, 151); padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root'><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with your Movie Extra Pack + Peacock premium?</span></div></div></div>"
+              }
+            ],
+            "P6688/5": {
+              "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 34px auto 5px;display: block;padding: 0px;text-align: center;\"><img src=\"https://www.directv.com[[imageURL]]\" alt=\"movies extra pack logo\" style=\"height: 40.0px;\" /></div></div>",
+              "image": "https://www.directv.com/dtvassets/sales/directv/logos/add-ons/moviesextrapack-c.svg",
+              "tltDialog": "<b>Special offer: [[displayName]] </b>",
+             "txtDialogContent": "<br/>You have a limited time option to get the current [[displayName]] add-on for the current price of $[[Amount]]/mo.<br/> <br/> If you choose this option, you’ll lose your current Movies Extra Pack offer and won’t be upgraded to Movies Extra Pack + Peacock.",
+              "valuePropModalContent": "<span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; display: block; padding-bottom: 20px; font-size: 22px; line-height: normal;'>Movies Extra Pack is getting bigger and better - Peacock Premium is coming soon!</span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'>With Peacock Premium included you will be able to stream your favorite movies in the universe, hit series, exclusive originals, live sports, next day episodes from NBC & Bravo and more on the Peacock app or at <a href='https://www.peacocktv.com' data-linkPosition= 'modal_peacocktv.com' data-linkDestination= 'https://www.peacocktv.com'  id= 'peacocktv.com'>peacocktv.com.>peacocktv.com.</a></span> </br></br><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'>In the meantime, you can continue to watch all your favorite Movies Extra Pack channels. At the start of your next billing period, Peacock Premium will be added to Movies Extra Pack and the price will change to $9.99/mo. Once Peacock is available, you will receive an email with instructions on how to activate your account.</span><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 32px auto 32px auto;display: block;padding: 0.0px;text-align: center;\"><img src=\"https://www.directv.com/assets/content/b7jxoppxfh/svg/Channel-Icon-Peacock-MEP-100x100.svg\" alt=\"Cinemax logo\" style=\"height: 90.0px;\" /></div><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='border-top: 1px solid rgb(151, 151, 151); margin-top: 32px; padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root'><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with your Movies Extra pack?</span></div></div></div>"
+            },
+            "P121606/1": {
+              "image": "https://www.directv.com/dtvassets/images/dtvs/logos/jpg/moviesextrapack_header.jpg",
+              "valuePropModalContent": "<div class='MuiBox-root css-0'><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='margin-top: 22px; margin-bottom: 15px;'><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style=''><img src='https://www.directv.com/dtvassets/images/dtvs/logos/jpg/moviesextrapack_header.jpg' alt='' style='width: 100%; object-fit: contain;'></div></div><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; display: block; padding-bottom: 20px; font-size: 22px; line-height: normal;'>Don’t miss out on your favorite movies and shows!</span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'>Movies Extra Pack Original has it all! Family favorites, movies, mysteries, and more!</span> <span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'><ul style='line-height: 24px;'><li>New mysteries and originals with <b>Hallmark Mystery</b> and <b>Hallmark Family</b></li><li>Nonstop movies on <b>Sony Movie Channel</b> and <b>HDNET movies</b></li><li>Music videos and concerts on <b>MTV Live</b></li><li>Riveting documentaries on <b>Smithsonian Channel</b></li><li>Infamous crime stories on <b>Crime + Investigation</b></li><li>High quality short movies and series on <b>SHORTSTV</b></li></ul></span></div><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'>Note, if you remove Movies Extra Pack Original, it's gone for good. Of course, the new Movies Extra Pack + Peacock Premium will be available for you to purchase and enjoy.</span><div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 32px auto 32px auto;display: block;padding: 0.0px;text-align: center\"><img src=\"https://www.directv.com//dtvassets/sales/directv/logos/add-ons/moviesextrapack-c.svg\" alt=\"movies extra pack logo\" style=\"height: 70.0px;\" /></div><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='border-top: 1px solid rgb(151, 151, 151); padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root'><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with Peacock Extra Pack Original?</span></div></div></div>"
+            }
+          },
+          "BOLTON-NEW-PACKAGE-JAPAN-DIRECT": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "B120524": {
+            "VAGR-ENTERTAINMENT-3MO-V3": {
+              "duration": "3",
+              "agreementId": "VAGR-ENTERTAINMENT-3MO-V3",
+              "description": "$28 off for 3 Months_B120524",
+              "promotionAmount": "28.00"
+            },
+            "VAGR-CHOICE-2MO-V2": {
+              "duration": "2",
+              "agreementId": "VAGR-CHOICE-2MO-V2",
+              "description": "$28 off for 2 Months_B120524",
+              "promotionAmount": "28.00"
+            },
+            "VAGR-CHOICE-3MO-V2": {
+              "duration": "3",
+              "agreementId": "VAGR-CHOICE-3MO-V2",
+              "description": "3 Month Upgrade: Entertainment to Choice ($78.00 Value)",
+              "promotionAmount": "26.00"
+            },
+            "serviceId": "[BASE-CHOICE_satellite,BASE-CHOICE-ALL-INCLUDED,BASE-CHOICE-NO-LOCALS_satellite,BASE-CHOICE-ALL-INCLUDED-NO-LOCALS_satellite]"
+          },
+          "BOLTON-HALLMARK-MOVIES-NOW": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/hallmarkmoviesnow-c.svg"
+          },
+          "BOLTON-STARZ": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/starz-c.svg",
+            "imageUrl": "/dtvassets/sales/directv/logos/add-ons/starz-k.svg"
+          },
+          "BOLTON-PLAYBOY-TV": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/playboy-k.svg"
+          },
+          "BOLTON-BET-PLUS": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/BETplus-horiz-c.svg"
+          },
+          "BOLTON-MYX": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BASE-ULTIMATE": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Ultimate_Logos.svg",
+            "css": "blue",
+            "txtDescription": [
+              "The movie lover's package",
+              "More channels than the XTRA package",
+              "11 extra movie channels"
+            ],
+            "header": "MORE MOVIES TO LOVE"
+          },
+          "B106954": {
+            "VAGR-HBO-3MO-V13": {
+              "duration": "3",
+              "agreementId": "VAGR-HBO-3MO-V13",
+              "description": "$5 off HBO + Max for 3 months",
+              "promotionAmount": "5.00"
+            },
+            "defaultAgreementId": "VAGR-HBO-3MO-V13",
+            "serviceId": "BOLTON-HBO-MAX_satellite"
+          },
+          "BOLTON-HUSTLER-TV": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/hustlertv-c.svg"
+          },
+          "BOLTON-TFC-DIRECT": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-STARZ_satellite": {
+            "retentionModalContent": "<div class=\"MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root\" style=\"width: 100.0%;\"><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/STARZ.svg\" alt=\"STARZ logo\" style=\"height: 20.0px;\" /></div><div class=\"MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root\" style=\"margin: 20.0px auto;display: block;padding: 0.0px;\"><img src=\"https://www.directv.com/dtvassets/images/dtvs/logos/svg/STARZ_Encore.svg\" alt=\"STARZ Encore logo\" style=\"height: 20.0px;\" /></div></div>",
+            "image": "/dtvassets/sales/directv/logos/add-ons/starz-k.svg",
+            "valuePropModalContent": "<div class='MuiBox-root css-0'><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='margin-top: 22px; margin-bottom: 15px;'><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style=''><img src='/dtvassets/images/dtvs/logos/jpg/STARZ_header.jpg' alt='Starz shows and movies including Outlander, Good Fortune, Happy Gilmore, and The Long Walk.' style='width: 100%; object-fit: cover;'></div></div><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 22px; line-height: normal; display: block; padding-bottom: 20px;'>STARZ: Bold Originals & Big Hit Movies</span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal; display: block; padding-bottom: 20px;'>STARZ provides diverse perspectives, fresh box office hits, and authentic stories with boundary-breaking entertainment.</span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; padding-bottom: 14px line-height: normal; display: block;'>Your subscription includes:</span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal;'><ul style='line-height: 24px; margin-top: 0px;'><li>STARZ commercial-free channels.</li><li>Groundbreaking original series like Outlander: Blood of My Blood and Spartacus: House of Ashur.</li><li>Exclusive movies including I Wish You All the Best, Resurrection Road, and Turbulence.</li><li>Unlimited HD streaming on up to 4 devices at a time.</li></ul></span><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 16px; line-height: normal; display: block;'>Plus, watch STARZ whenever, wherever with STARZ On Demand and the STARZ App!</span><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='justify-content: space-around; margin-top: 22px; margin-bottom: 15px; display: flex; flex-flow: row wrap; width: 100%;'><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='https://www.directv.com/dtvassets/images/dtvs/logos/svg/STARZ.svg' alt='STARZ logo' style='height: 20px;'></div><div class='MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root' style='margin: 20px auto; display: block; padding: 0px; text-align: center;'><img src='https://www.directv.com/dtvassets/images/dtvs/logos/svg/STARZ_Encore.svg' alt='STARZ encore logo' style='height: 20px;'></div></div><span class='MuiTypography-root MuiTypography-body1 css-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 12px; line-height: normal;'>Starz® and related channels and service marks are the property of Starz Entertainment, LLC. Visit <a href='https://www.starz.com ' target='_blank'>starz.com</a> for airdates/times. Outlander © 2025 Sony Pictures Television Inc. All rights reserved. The Nowhere Man © Dead Places Productions (Pty) Ltd 2025. The BMF Documentary: Blowing Money Fast © MMXXV Lions Gate Television, Inc. All Rights Reserved. The Long Walk © 2025 Lions Gate Films Inc. All Rights Reserved. Good Fortune © 2025 Lions Gate Films Inc. All Rights Reserved. Happy Gilmore © 1996 UNIVERSAL CITY STUDIOS INC</span><div class='MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root' style='border-top: 1px solid rgb(151, 151, 151); margin-top: 32px; padding-top: 25px;'><div class='MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1q3snsu-MuiGrid-root'><span class='MuiTypography-root MuiTypography-body1 ss-1ceytvz-MuiTypography-root' style='font-weight: normal; font-size: 18px; line-height: normal;'>What would you like to do with your STARZ premium add-on?</span></div></div></div>",
+            "ariaLabelTag": "STARZ"
+          },
+          "BOLTON-DOG-TV": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/dogtv-c.svg"
+          },
+          "BOLTON-ITALIAN-DIRECT-II": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-FOX-SOCCER-PLUS": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/foxsoccerplus-c.svg"
+          },
+          "BOLTON-PEACOCK": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/peacock-ck.svg"
+          },
+          "BOLTON-FILIPINO-DIRECT": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-ACORN-TV": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/acorntv-c.svg"
+          },
+          "BOLTON-MANDARIN-DIRECT-III": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BASE-PREMIER": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/Premier_LogosMax.svg",
+            "css": "darkBlue",
+            "txtDescription": [
+              "Our top-of-the-line package featuring the best in TV entertainment and sports",
+              "Every premium movie channel including Max, STARZ, SHOWTIME, and Cinemax",
+              "Over 35 specialty sports networks like YES Network, College Sports, and many more"
+            ],
+            "header": "GET MORE SEE MORE"
+          },
+          "B101210": {
+            "VAGR-HDEXTRAPACK-3MO-V8": {
+              "duration": "3",
+              "agreementId": "VAGR-HDEXTRAPACK-3MO-V8",
+              "description": "$0.00 for 3 months",
+              "promotionAmount": "4.99"
+            },
+            "serviceId": "BOLTON-MOVIES-EXTRA-PACK_satellite"
+          },
+          "BASE-ENTERTAINMENT": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Entertainment_Logos.svg",
+            "css": "lightBlue",
+            "txtDescription": [
+              "Value package",
+              "Includes all the top entertainment and news channels with major sports networks"
+            ],
+            "header": "THE ESSENTIALS"
+          },
+          "BASE-DIRECTV-LIMITED": {
+            "txtDescription": [
+              "Over 60 Spanish-language channels",
+              "Over 145 English-language channels"
+            ]
+          },
+          "BOLTON-ALLBLK": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/allblk-c.svg"
+          },
+          "BOLTON-NFL-STM": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/nflstmax-c.svg"
+          },
+          "BOLTON-DISCOVERY-PLUS": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/discoveryplus-ck.png"
+          },
+          "BOLTON-KOREAN-DIRECT": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-PINOY-DIRECT": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-SPOR-TV": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-RTVI": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-NFL-SUNDAY-TICKET": {
+            "image": "/dtvassets/images/dtvs/logos/svg/DTV-NFL-SUNDAY-TICKET.svg"
+          },
+          "B102499": {
+            "duration": "3",
+            "VAGR-ENTERTAINMENT-3MO-V2": {
+              "duration": "3",
+              "agreementId": "VAGR-ENTERTAINMENT-3MO-V2",
+              "description": "$13 off for 3 Months_B102499",
+              "promotionAmount": "13.00"
+            },
+            "agreementId": "VAGR-ENTERTAINMENT-3MO-V1",
+            "description": "3 Month Upgrade: Select to Entertainment ($39.00 Value)",
+            "serviceId": "[BASE-ENTERTAINMENT_satellite,BASE-ENTERTAINMENT-ALL-INCLUDED_satellite,BASE-ENTERTAINMENT-NO-LOCALS_satellite,BASE-ENTERTAINMENT-ALL-INCLUDED-NO-LOCALS_satellite]",
+            "VAGR-ENTERTAINMENT-2MO-V2": {
+              "duration": "2",
+              "agreementId": "VAGR-ENTERTAINMENT-2MO-V2",
+              "description": "$13 off for 2 Months_B102499",
+              "promotionAmount": "13.00"
+            },
+            "promotionAmount": "13.00",
+            "VAGR-ENTERTAINMENT-3MO-V1": {
+              "duration": "3",
+              "agreementId": "VAGR-ENTERTAINMENT-3MO-V1",
+              "description": "3 Month Upgrade: Select to Entertainment ($39.00 Value)",
+              "promotionAmount": "13.00"
+            }
+          },
+          "BOLTON-NFL-SUNDAY-TICKET-MAX-UPGRADE": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/nflstmax-c.svg"
+          },
+          "BOLTON-RAI-ITALIA": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BOLTON-KOREAN-DIRECT-LITE": {
+            "image": "https://www.directv.com/cms2/product_catalog/international/international.gif"
+          },
+          "BASE-SELECT": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Select_Logos.svg",
+            "txtDescription": [
+              "Value package",
+              "Channels covering popular programming, movies, music, sports, educational and other genres"
+            ],
+            "header": "THE BASICS"
+          }
+        },
+        "ctaSeeDetails": "SEE DETAILS",
+        "promotionDetails": [
+           {
+            "code": "P2165",
+            "agreementId": "VAGR-HBO-STARZ-SHOWTIME-CINEMAX-3MO-V21",
+            "name": "HBO",
+            "isNationalOffer": true
+          },
+          {
+            "code": "P106642",
+            "agreementId": "VAGR-EPIX-3MO-V2",
+            "name": "EPIX"
+          },
+          {
+            "code": "P2140",
+            "agreementId": "VAGR-HBO-3MO-V13",
+            "name": "HBO"
+          },
+          {
+            "code": "P2140",
+            "agreementId": "VAGR-HBO-999MO-V27",
+            "name": "HBO"
+          },
+          {
+            "code": "P2141",
+            "agreementId": "VAGR-STARZ-3MO-V13",
+            "name": "Starz"
+          },
+          {
+            "code": "P2143",
+            "agreementId": "VAGR-CINEMAX-3MO-V13",
+            "name": "Cinemax"
+          },
+          {
+            "code": "P2142",
+            "agreementId": "VAGR-SHOWTIME-3MO-V33",
+            "name": "Showtime"
+          },
+          {
+            "code": "P6688",
+            "agreementId": "VAGR-HDEXTRAPACK-3MO-V8",
+            "name": "HD Extra Pack"
+          },
+          {
+            "code": "P2140",
+            "agreementId": "VAGR-HBO-FreeTrial-2MO-V1  ",
+            "name": "HBO 2months free"
+          },
+          {
+            "code": "P2140",
+            "agreementId": "VAGR-HBO-24MO-V2",
+            "name": "HBOMAX 5$ for24 months"
+          }
+        ],
+        "uiPage": "RemoveAddons",
+        "txtTax": "+tax",
+        "ctaClose": "Close",
+        "txtStartDate": "Starts ",
+        "ctaRemoving": "REMOVING",
+        "viewMore": "View more",
+        "ctaRemove": "REMOVE",
+        "txtAnnualContract": "No annual contract",
+        "txtSuggestionMatch": "Suggested match",
+        "productActiveStatus": "active,grandfather,actv",
+        "txtFees": ". + tax & fees",
+        "txtCalltoChange": "Please call <a href=\"tel:8005515000\">800.551.5000</a> for more information on updating your TV package..",
+        "package": "package",
+        "ctaDecline": "No thanks",
+        "inEligibleForRetentionOffer": "BOLTON-MOVIES-EXTRA-PACK_satellite",
+        "txtTwelveSavings": "$12/mo. savings",
+        "txtMo": "MO*",
+        "txtCallToAdd": "To add a services or make a changes, call <a href=\"tel:8005315000\">800.531.5000</a>",
+        "txtSpecialCharacter1": "*",
+        "asteriskPriceMessage": "* Current discounts that may carry over are not reflected in this price",
+        "ctaAccept": "I'll take it!",
+        "agreementStatusToDisplay": "active",
+        "ctaSelectedButton": "SELECTED",
+        "ctaSwitching": "SWITCHING TO",
+        "txtDollar": "$",
+        "ctaRemoved": "REMOVED",
+        "ctaSwitch": "SWITCH",
+        "txtPrice": "/mo",
+        "ctaSwitchToButton": "SWITCH TO",
+        "txtPriceIncludeCloudDvr": "Price includes unlimited hours of Cloud DVR for $10/mo.",
+        "withoutAsteriskPriceMessageCA": "Current discounts that may carry over are not reflected in this price"
+      }
+    },
+    "sharedPackageDialogs": {
+      "title": "sharedPackageDialogs",
+      "elements": {
+        "PromotionRemovalDialog": {
+          "ctaCancel": "CANCEL",
+          "txtDialogContent": "If you remove [[PROMOTION DETAILS ]], you'll lose your current promo(s):",
+          "tltDialog": "Just so you know...",
+          "ctaRemove": "REMOVE"
+        },
+        "upgradeDowngradeDialog": {
+          "txtOptimoMasSubSecondContent": "You can still catch top-rated Spanish entertainment and sports channels when you add a Spanish-language add-on to your new base package.",
+          "txtOptimoMasSubSecond": "Want to keep some of your favorites?",
+          "txtDialogGrandFathered": " If you continue to switch you'll lose the following:",
+          "txtGrandFatheredWarning": "We don’t offer [[pkg]] anymore. If you make this change, you won’t be able to switch back later.",
+          "txtOptimoMasSubContent": "<ul><li>Most of your Spanish-language channels aren’t available with your new TV package.</li> <li>Recordings will be deleted for shows on channels that are no longer part of your TV service.</li></ul>",
+          "txtBasePkgPremiumChannelSwimlane": "Your new package includes these premium channels. We’ll remove any related monthly charges or promos from your account when your new package starts on                       [[DATE]]. ",
+          "txtOptimoMasLose": "You’ll also lose:",
+          "txtSportsMsg": "If you make this change, you may not be able to switch back to the Sports MVP package in the future. You’ll need to call 800.531.5000 to verify your eligibility at that time.",
+          "txtBasePackagePremiumChannel": "This package includes these premium channels at no additional cost. If you currently pay for any of these channels as add-ons, you’ll no longer be charged for them.",
+          "txtAgentFacingToOtherPackageMsg": "If you make this change, you may not be able to switch back to the [[PACKAGE_NAME]] package in the future. You’ll need to call 800.531.5000 to verify your eligibility at that time.",
+          "txtOptimoMasInfo": "We don’t offer ÓPTIMO MÁS anymore. If you make this change, you won’t be able to switch back later.",
+          "txtDialogSwitchToBasePackage": "If you switch to [[BASE PACKAGE]] you’ll lose these premium channels.",
+          "txtOptimoMasSubFirst": "Spanish channels & Cloud DVR recordings",
+          "tltDowngradeDialog": "Just so you know...",
+          "txtForwithEspn": "Your new package includes [[PACKAGE NAME]].",
+          "txtForWithoutEspn": "Your new package doesn't include [[PACKAGE NAME]].",
+          "txtForNewPackageDoesntInclude": "Your new package doesn't include",
+          "txtForNewPackageIncludes": "Your new package include",
+          "txtForNewPackagePrefixInclude": "Your new package includes",
+          "txtForMepPeacockUpgradeAndDowngrade": "Because your new package includes Peacock Premium, we’ll replace the Movies Extra Pack + Peacock Premium bundle with Movies Extra Pack for $4.99/mo. and remove any promos for the bundle from your account.",
+          "premierIncludedAddons": {
+          "BOLTON-HBO-MAX_satellite": {
+            "promotionalAmount": "Included",
+            "name": "Max"
+          },
+          "BOLTON-DIRECTV-SPORTS-PACK_satellite": {
+            "promotionalAmount": "Included",
+            "name": "DIRECTV SPORTS PACK"
+          },
+          "BOLTON-SHOWTIME_satellite": {
+            "promotionalAmount": "Included",
+            "name": "Paramount+ with SHOWTIME"
+          },
+          "BOLTON-CINEMAX_satellite": {
+            "promotionalAmount": "Included",
+            "name": "CINEMAX"
+          },
+          "BOLTON-STARZ_satellite": {
+            "promotionalAmount": "Included",
+            "name": "STARZ"
+          },
+          "BOLTON-ESPN-UNLIMITED_satellite": {
+            "promotionalAmount": "Included",
+            "name": "ESPN Unlimited"
+          },
+          "BOLTON-PEACOCK_satellite": {
+            "promotionalAmount": "Included",
+            "name": "Peacock Premium"
+          }
+        },
+        "packageIncludeaddons": [
+            {
+            "serviceId": "BOLTON-ESPN-UNLIMITED_satellite",
+            "name": "ESPN Unlimited"
+          },
+          {
+            "serviceId": "BOLTON-PEACOCK_satellite",
+            "name": "Peacock Premium"
+          }
+        ]
+        },
+        "webFormDialog": {
+          "ctaRemoveAutoRenewal": "REMOVE AUTO-RENEWAL",
+          "lblEmailId": "Email address",
+          "ctaKeepAutoRenewal": "KEEP AUTO-RENEWAL",
+          "webFormRedirectionUrl": "/dtv-cancel/?webFormRequest=[[REQUEST]]&returnURL=",
+          "txtDescription": "<ul><li>You'll still have access to your sports package and be billed any remaining payments.</li><li>Canceling auto-renewal can take up to three business days to process. Keep an eye out for an email confirmation.</li><li>If you don't get your email within three business days, please call us at <a href=\"tel:8005315000\">800.531.5000</a>.</li></ul>",
+          "ctaContinue": "CONTINUE",
+          "title": "Service not refundable",
+          "txtSports": "SPORTS",
+          "txtBannerMessage": "Thanks! We’re processing your request to cancel auto-renewal.",
+          "ctaCancel": "CANCEL",
+          "lblAccountNumber": "Account number",
+          "txtDirectv": "directv.com",
+          "subTitle": "We can’t cancel this subscription once the season is underway. You currently have [addOnName]. Want to remove auto-renewal so you won’t be charged for next season?",
+          "txtContent": "This service is not removable since it’s past the refundable date. You’re able to remove auto-renewal.",
+          "titleInSeason": "Sorry! You're in for the season"
+        },
+        "PromotionRetentionDialog": {
+          "ctaCancel": "NO, THANKS",
+          "txtDialogContent": "Now you can enjoy more of the channels you love, at less than the regular price.",
+          "tltDialog": "Save [amount] off [addon] for [period]",
+          "ctaGetOffer": "GET OFFER"
+        },
+        "reviewUpdateProductDialog": {
+          "insurance": {
+            "disclosure": "By subscribing you will be billed [[price]] per month on a recurring basis (price subject to change). On your next bill you will see a partial amount for remainder of the current billing period and the full amount for the following period, which we bill in advance. Your subscription will continue until canceled by either you or DIRECTV. You can cancel at <a href='https://www.directv.com' target='_blank'>directv.com</a> or by calling 800.531.5000."
+          },
+          "txtPeacockDisclaimer1": "NOTE:",
+          "txtRemove": "Remove",
+          "asterisk": "*",
+          "txtNetflixRemove": "By selecting remove, you agree to remove Netflix from your account.",
+          "lnkSeeWhatLocalsRR": "See local channels in your ZIP Code",
+          "ctaContinueSwitch": "CONTINUE SWITCH",
+          "ctaRemoveIt": "REMOVE IT",
+          "ctaRemoveLocals": "REMOVE LOCAL CHANNELS",
+          "txtRtcRemove": "We’re unable to cancel a no-cost subscription. Once the offer is complete, it will be removed from your account.",
+          "txtTokenMls": "BOLTON-MLS-SEASON-PASS",
+          "txtRtcRemoveTitleSeasonal": "Sorry! You're in for the season",
+          "txtToRemove": "To remove services, call 800.531.5000",
+          "txtToChangeServices": "Please call customer service at 1-800-531-5000 to make changes.",
+          "ctaKeepLocals": "KEEP LOCAL CHANNELS",
+          "asteriskPriceMessageModal": "Price includes current discounts. Discounts may expire at different times. Check bill for details.",
+          "lnkSeeWhatLocalsHref": "https://www.directv.com/channel-lineup/modal/?tab=rsn",
+          "txtFees": " + tax & fees",
+          "txtCalltoChange": "Please call <a href=\"tel:8005515000\">800.551.5000</a> for more information on updating your TV package.",
+          "btnTxtDone": "DONE",
+          "txtLocalsSwitchSubInfo": "You can switch back at any time and local channels will be available soon.",
+          "txtRtcRemoveSubTitleSeasonal": "We can't cancel your no-cost subscription to [addOnName] once the season is underway. Once the season is over, your subscription will not be renewed.",
+          "txtMonth": "MO.",
+          "txtTwelveSavings": "$12/mo. savings",
+          "txtLocalsSwitchInfo": "By removing local channels you’ll save $12/mo and no longer be able to use your set top box to view local channels such as CBS, NBC, ABC, FOX, PBS (for full a list go to directv.com/locals). You can still watch local channels if you <a href=\"https://www.directv.com/support/satellite/article/000097480\" target=\"_blank\">use an antenna</a>",
+          "txtTokenAppletv": "BOLTON-APPLE-TV",
+          "ctaContinueNetflix": "CONTINUE TO ADD",
+          "txtToActivate": "To activate the plan, call 800.531.5000.",
+          "asteriskPriceMessage": "*Current discounts/offers that may carry over aren’t reflected in the price above.",
+          "ctaCancel": "CANCEL",
+          "ctaNoKeepIt": "KEEP",
+          "txtImportantInfo": "Important Info",
+          "txtRtcRemoveTitlePremium": "This no-cost subscription is a gift from DIRECTV as a way of saying thanks for being a loyal customer.",
+          "ctaKeepIt": "KEEP IT",
+          "txtPrice": "/mo",
+          "txtContent": "$4.99 offer price includes $3/mo. off of Peacock Premium reg. price (currently $7.99/mo.). By selecting this offer, you agree to Peacock terms and conditions available here <a href=\"https://www.peacocktv.com/terms\" target=\"_blank\">peacocktv.com/terms</a>.You also agree your subscription to Peacock Premium auto-renews monthly at then prevailing rate (currently $4.99/mo.) and that DIRECTV will charge the provided method of payment on a monthly basis, unless you cancel your subscription online via DIRECTV.com. Subscription only valid for streaming using the Peacock app and peacocktv.com. You will receive separate information via email on how to register your account. Existing Peacock Premium and Premium Plus subscribers will need to take additional steps to redeem; see <a href=\"https://www.peacocktv.com/help/article/directv\" target=\"_blank\">https://www.peacocktv.com/help/article/directv</a> for details.",
+          "btnTxtClose": "CLOSE",
+          "txtForMultiTierPrimaryButton": "Add now",
+          "txtAppleTvDisclaimer2": "By selecting this offer, you agree to <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\">Apple Media Services Terms and Conditions</a> and <a href=\"https://www.apple.com/legal/privacy/en-ww/\" target=\"_blank\">Apple Privacy Policy</a>.",
+          "addonsDisclaimer": {
+            "BOLTON-DOG-TV": " ",
+            "BOLTON-DISCOVERY-PLUS": "By subscribing, you will receive $2.00 off the price of your monthly DIRECTV bill. If you cancel your subscription to discovery+, your $2.00 discount to your monthly bill will stop.",
+            "BOLTON-HISTORY-VAULT": " ",
+            "BOLTON-REVRY": " ",
+            "BOLTON-MOVIES-EXTRA-PACK": " ",
+            "BOLTON-HALLMARK-MOVIES-NOW": " ",
+            "BOLTON-AMC-PLUS": "",
+            "BOLTON-EPIX": " ",
+            "BOLTON-UP-FAITH-FAMILY": " ",
+            "BOLTON-STARZ": " ",
+            "BOLTON-ACORN-TV": " ",
+            "BOLTON-A-AND-E-CRIME-CENTRAL": "",
+            "BOLTON-BET-PLUS": " ",
+            "BOLTON-CINEMAX": " ",
+            "BOLTON-SHOWTIME": " ",
+            "BOLTON-LIFETIME-MOVIE-CLUB": " ",
+            "BOLTON-FOX-NATION": "",
+            "BOLTON-HBO-MAX": " ",
+            "BOLTON-CURIOSITY-STREAM": ""
+          },
+          "txtDetailsForMultitier": {
+            "txtForPageViewMultiTireModal": {
+              "txtForPageUrl": "/modal_selectyour[[multitier]] plan",
+              "txtForPageTitle": "modal select [[multitier]] plan"
+            }
+          },
+          "txtDetailsForNetflix": {
+            "txtForNetflix": "Netflix",
+            "txtForManagePlan": "Manage Plan",
+            "termsAndConditionTitle": "Terms and conditions",
+            "txtForPageViewMultiTireModal": {
+              "txtForPageUrl": "/modal_selectyournetflix plan",
+              "txtForPageTitle": "modal select Netflix plan"
+            },
+            "imageUrl": "https://www.directv.com/dtvassets/sales/directv/logos/add-ons/netflix-c.svg",
+            "txtNetflixTermsAndCondition": "By selecting this offer, you agree that your subscription to [Netflix plan name] auto-renews monthly at the then prevailing rate (Currently $[XX.XX]/mo. + taxes) and that DIRECTV will charge the provided method of payment on a monthly basis, unless you cancel your subscription online via DIRECTV.com.",
+             "txtPlanDesc": [
+              "By selecting this offer, you agree to <a href=\"https://help.netflix.com/legal/termsofuse/\" target=\"_blank\" style='color: #555555;'><u>Netflix Terms of Use</u></a> and <a href=\"https://www.directv.com/legal/netflix-bundle-offer-terms/\" target=\"_blank\" style='color: #555555;'><u>Netflix offer terms</u></a>. Once your purchase is complete, we’ll send you an email so you can activate your Netflix subscription and start streaming.",
+              "Live events are included with any Netflix plan and contain ads.",
+              "<b>Existing Netflix customers</b> subscribing to Netflix through DIRECTV must activate the new service to migrate billing to DIRECTV. You will receive separate information via email on how to activate your account.",
+              "<b>When upgrading</b>, you’ll be charged a prorated amount for the days you have the higher plan during this billing cycle. ",
+              "<b>When downgrading or removing Netflix</b>, you'll be charged a prorated amount during this billing cycle.",
+              "Watch Netflix on the Netflix app or at netflix.com.",
+              "Want to learn more? Check out our <a href=\"https://www.directv.com/support/article/000097885\" target=\"_blank\" style='color: #555555;'><u>Netflix FAQ</u></a>. "
+            ],
+            "txtForCurrentPlan": "Your plan",
+            "txtForSelectPlan": "Select your plan",
+            "txtForChangePlan": "Change plan",
+            "txtForCancel": "Cancel",
+            "txtForRemove": "Remove plan",
+            "txtForContinue": "Continue",
+            "txtForStartingAt": "Starting at ",
+            "Standard": {
+              "txtStandard": "Standard",
+              "imageurl1": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg", 
+              "content1": "Ad-free",
+              "imageurl2": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_hd-content_blue900.svg", 
+              "content2": "Watch in 1080p (Full HD)",
+              "imageurl3": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg",
+              "content3": "Watch on 2 supported devices"
+            },
+            "StandardWithAds": {
+              "txtStandardWithAds": "Standard with ads",
+              "imageurl1": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg", 
+              "content1": "Ad-supported",
+              "imageurl2": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_hd-content_blue900.svg", 
+              "content2": "Watch in 1080p (Full HD)",
+              "imageurl3": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg",
+              "content3": "Watch on 2 supported devices"
+            },
+            "Premium": {
+              "txtPremium": "Premium",
+              "imageurl1": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg", 
+              "content1": "Ad-free",
+              "imageurl2": "https://www.directv.com/assets/content/zin1bqmdhj/svg/fusion_4k_blue900.svg", 
+              "content2": "Watch in 4K (Ultra HD) + HDR",
+              "imageurl3": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg",
+              "content3": "Watch on 4 supported devices",
+              "imageurl4": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_mobile-hotspot_blue900.svg",
+              "content4": "Spatial audio, immersive sound"
+            },
+            "netflix24HoursMessage": {
+              "txtForManagePlan": {
+                "title": "Please wait 24 hours before making online changes to this subscription",
+                "txtContent": "We can't make online changes to this subscription until 24 hours after purchase. Call 800.531.5000 to make changes now."
+              },
+              "txtForRemovePlan": {
+                "title": "Please wait 24 hours before removing this subscription online",
+                "txtContent": "We can't remove this subscription online until 24 hours after purchase. Call 800.531.5000 to remove it now."
+              }
+            }
+          },
+          "txtDetailsForHboMax": {
+            "txtForHboMax": "HBO Max",
+            "txtForHboMaxTitle": "HBO-MAX",
+            "txtForManagePlan": "Manage Plan",
+            "termsAndConditionTitle": "Terms and conditions",
+            "imageUrl": "https://www.directv.com/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg",
+            "txtHboTermsAndCondition": "By selecting this offer, you agree that your subscription to [HBO Max plan name] auto-renews monthly at the then prevailing rate (Currently $[XX.XX]/mo. + taxes) and that DIRECTV will charge the provided method of payment on a monthly basis, unless you cancel your subscription online via DIRECTV.com.",
+            "txtPlanDesc": [
+              "Some <b>HBO Max Standard</b> channels may take a few minutes to become available on your DIRECTV TV guide. You also have access to the HBO Max app and hbomax.com",
+              "<b> HBO Max Basic With Ads</b> is available through the HBO Max app and at <a id=\"hbomax.com\" aria-label=\"hbomax.com\" data-linkPosition=\"modal_hbomax.com\" data-linkDestination=\"https://www.hbomax.com\" href=\"https://www.hbomax.com\" target=\"_blank\">hbomax.com</a>.",
+              "<b>When you upgrade your HBO Max plan,</b> you'll be charged a prorated amount for the days you have the higher plan during this billing cycle.",
+              "<b>When you remove or downgrade your HBO Max plan</b>, price changes will be reflected in your next bill.",
+              "HBO Max terms apply at hbomax.com/terms-of-use. Ads served on live events on the Standard plan. Full HD not available on all content within each plan. Download limits apply in certain content categories. Live sports has select games and blackouts."
+            ],
+            "txtForCurrentPlan": "Your plan",
+            "txtForSelectPlan": "Select your plan",
+            "txtForChangePlan": "Change plan",
+            "txtForAddNow": "Add now",
+            "txtForCancel": "Cancel",
+            "txtForRemove": "Remove plan",
+            "txtForContinue": "Continue",
+            "txtForStartingAt": "Starting at ",
+            "BasicWithAds": {
+              "txtBasicWithAds": "Basic with Ads",
+              "imageurl1": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg", 
+              "content1": "HBO Max app and on demand plan",
+              "imageurl2": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg", 
+              "content2": "Watch with limited ads",
+              "imageurl3": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg",
+              "content3": "Enjoy must-see series and movies",
+              "imageurl4": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg",
+              "content4": "Stream on 2 devices at once",
+               "imageurl5": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_hd-content_blue900.svg",
+              "content5": "Full HD resolution"
+            },
+            "Standard": {
+              "txtStandardWithAds": "Standard",
+              "imageurl1": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg", 
+              "content1": "HBO Max app, 6 live channels & on-demand",
+              "imageurl2": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg", 
+              "content2": "Stream shows and movies without ads",
+              "imageurl3": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg",
+              "content3": "Download to watch on the go",
+              "imageurl4": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg",
+              "content4": "Stream on 2 devices at once",
+              "imageurl5": "https://www.directv.com/assets/content/emflgjnpka/svg/ondemand-dark-icon.svg",
+              "content5": "Live Sports"
+
+            },
+            "txtForGifted": {
+              "imageurl1": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg",
+              "content1": "HBO Max app-only plan",
+              "imageurl2": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg", 
+              "content2": "Watch with limited ads",
+              "imageurl3": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg", 
+              "content3": "Enjoy must-see series and movies",
+              "imageurl4": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg",
+              "content4": "Stream on 2 devices at once",
+              "imageurl5": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_hd-content_blue900.svg",
+              "content5": "Full HD resolution"
+            },
+            "netflix24HoursMessage": {
+              "txtForManagePlan": {
+                "title": "Please wait 24 hours before making online changes to this subscription",
+                "txtContent": "We can't make online changes to this subscription until 24 hours after purchase. Call 800.531.5000 to make changes now."
+              },
+              "txtForRemovePlan": {
+                "title": "Please wait 24 hours before removing this subscription online",
+                "txtContent": "We can't remove this subscription online until 24 hours after purchase. Call 800.531.5000 to remove it now."
+              }
+            }
+          },
+          "txtPromoEnds": "Promo ends",
+          "txtPromoDuration": "[price] for [duration] months then [planPrice]/mo.",
+          "txtPromoAdditional":  "then [planPrice]/mo.",
+          "txtAppleTvDisclaimer4": "",
+          "txtAppleTvDisclaimer3": "Existing Apple TV customers subscribing to Apple TV through DIRECTV must activate the new service to migrate billing to DIRECTV. You will receive separate information via email on how to activate your account.",
+          "txtNetflixSeeWhatYouGet": {
+            "txtKeyPoint1": "Watch as much as you want, all for one set price.",
+            "txtKeyPoint2": "A wide selection of shows and movies for everyone in the household to love.",
+            "txtKeyPoint3": "Watch on four devices at a time in 4K Ultra HD",
+            "description": "Looking for the most talked about TV shows and movies from around the world? They’re all on Netflix Premium.",
+            "title": "See what you get",
+            "ctaGotIt": "GOT IT"
+          },
+          "termsAndConditionsRR": "By subscribing you will be billed $[X.xx]/mo. on a recurring basis. Your next bill will include a partial charge for the local channels added today. After that, your regular monthly charge will reflect the new total amount for the previous billing cycle. Charges will continue monthly until canceled at <a href=\"https://www.directv.com\" target=\"_blank\">directv.com</a> or by calling 800.531.5000.",
+          "txtContentForMfaBolton": "By selecting this offer, you agree that your subscription to [[DISPLAY_NAME]] auto-renews monthly at the prevailing rate (Currently $[[PRICE]]+ taxes) and that DIRECTV will charge the provided method of payment on a monthly basis, unless you cancel your subscription online via <a href=\"https://www.directv.com/\" target=\"_blank\">DIRECTV.com.</a>",
+          "txtAddingLocalChannels": "Local channels",
+          "title": "Activate",
+          "txtRemoveContent": "On your next bill, you’ll see a credit for the package that you’re disconnecting today because you paid in advance.",
+          "lnkMakePayment": "make your payment",
+          "txtLocalsCheckBoxInfo": "I understand that I won’t have access to local channels with this package.",
+          "video-addon": {
+            "disclosure": "By subscribing you will be billed [[price]] per month on a recurring basis (price subject to change). On your next bill you will see a partial amount for remainder of the current billing period and the full amount for the following period, which we bill in advance. You can cancel at <a href='https://www.directv.com' target='_blank'>directv.com</a>."
+          },
+          "ctaContinueCancel": "CONTINUE CANCEL",
+          "txtTokenNetflix": "BOLTON-NETFLIX",
+          "removeTitle": "REMOVE",
+          "txtNetflixDisclaimer4": "<br />Watch Netflix Premium on the Netflix app (Netflix enabled device required) or netflix.com.",
+          "txtDisclaimer3": "Already have Peacock Premium? You’ll need to cancel your current account to get the discounted price for DIRECTV. Visit the <a href=\"https://www.peacocktv.com/help/article/directv\" target=\"_blank\">Peacock Help Center</a> for additional details. <br/><br/>By subscribing, you agree to <a  href=\"https://www.peacocktv.com/terms\" target= '_blank' id= 'Peacock Premium Terms of Service' data-linkdestination= 'https://www.peacocktv.com/terms' data-linkposition= 'modal_Peacock Premium Terms of Service'>Peacock Premium Terms of Service</a> and <a  href=\"https://www.peacocktv.com/privacy\" target= '_blank' id= 'Privacy Policy' data-linkdestination= 'https://www.peacocktv.com/privacy' data-linkposition= 'modal_Privacy Policy'>Privacy Policy</a>. Subject to discontinuation, change, or cancellation at any time. U.S. only.",
+          "txtDisclaimer4": "<br />Watch Peacock Premium on the Peacock app or <a  href=\"https://www.peacocktv.com\" target= '_blank' id= 'peacocktv.com' data-linkdestination= 'https://www.peacocktv.com' data-linkposition= 'modal_peacocktv.com'>peacocktv.com</a>.",
+          "txtNetflixDisclaimer3": "If you’re already a Netflix member, you still need to activate your subscription. This will link your existing Netflix account to your DIRECTV bill.",
+          "txtNetflixDisclaimer2": "<br />Once your purchase is complete, we’ll send you an email so you can activate your Netflix Premium subscription and start streaming.",
+          "txtDisconnectingToday": "On your next bill, you’ll see a credit for the package that you’re disconnecting today because you paid in advance.",
+          "txtNetflixDisclaimer1": "<b>PLEASE NOTE:</b>",
+          "txtTax": "+tax",
+          "txtDisclaimer1": "PLEASE NOTE",
+          "titleSwitch": "Switch to ",
+          "txtDisclaimer2": "",
+          "txtToolTipInfo": "If you recently subscribed to DIRECTV, you can upgrade your TV package without losing your rebates. Your remaining monthly credits will apply to your new TV package.",
+          "ctaRemove": "REMOVE",
+          "txtMakePayment": "Your account is past due. Please ",
+          "ctaContinue": "ACTIVATE NOW",
+          "txtImmediately": " immediately.",
+          "txtContentForPeacock": "$4.99 offer price includes $3/mo. off of Peacock Premium reg. price (currently $7.99/mo.). By selecting this offer, you agree to Peacock terms and conditions available here <a href=\"https://www.peacocktv.com/terms\" target=\"_blank\">peacocktv.com/terms.</a> You also agree your subscription to Peacock Premium auto-renews monthly at then prevailing rate (currently $4.99/mo.) and that DIRECTV will charge the provided method of payment on a monthly basis, unless you cancel your subscription online via DIRECTV.com. Subscription only valid for streaming using the Peacock app and peacocktv.com. You will receive separate information via email on how to register your account. Existing Peacock Premium and Premium Plus subscribers will need to take additional steps to redeem; see <a href=\"https://www.peacocktv.com/help/article/directv\" target=\"_blank\">https://www.peacocktv.com/help/article/directv</a> for details.",
+          "txtRtcRemoveSubTitlePremium": "After the offer expires, it will automatically be removed from your account. We hope you enjoy your gift!",
+          "ctaLocalsChannels": "ADD LOCAL CHANNELS",
+          "asteriskTag": "*",
+          "ctaAddNow": "ADD NOW",
+          "video-plan": {
+            "disclosure": "You have selected [[package]]. Your next bill will include a credit for your current package (billed in advance), a partial charge for your new package starting today, and the regular monthly charge for the upcoming billing cycle. Charges will continue monthly, cancel anytime at <a href='https://www.directv.com' target='_blank'>directv.com</a> or by calling 800.531.5000."
+          },
+          "txtDollar": "$",
+          "txtForIncludedOnUs": "Included on us",
+          "txtDisclaimer": "",
+          "txtEligibilityTxt": "You may be eligible for a lower price.",
+          "txtDot": ".",
+          "ctaCancelSwitch": "CANCEL SWITCH",
+          "txtTitle": "Are you sure?",
+          "txtMepDisclaimer1": "Peacock Premium is coming to Movies Extra Pack in October! After the promotional period ends, you will get Movies Extra Pack + Peacock for $9.99/mo., unless you cancel. Enjoy all your favorites PLUS Peacock originals, live sports, blockbuster movies and more on the Peacock app or at peacocktv.com. Account activation required. Check your email for instructions.",
+			    "txtMepDisclaimer2": "<br/>Already have Peacock directly billed through Peacock? You’ll need to cancel your current Peacock plan first. Then, after your subscription has expired, return here to subscribe and have DIRECTV handle your billing. Visit the Help Center <a  href=\"https://www.peacocktv.com/help/article/directv\" target= '_blank'>here</a> for additional details.",
+          "txtForMepPeacockSaveOffer": "savecustomeroffer",
+          "txtForMepPeacockRemoveSaveOffer": "modal save customer offer",
+          "mepPlusPeacockContent": {
+            "txtMepPlusPeacockDisclaimer1": "",
+            "txtMepPlusPeacockDisclaimer2": "",
+            "txtMepPlusPeacockDisclaimer3": "Already have Peacock Premium? You’ll need to cancel your current account to get the discounted price for DIRECTV. Visit the <a href=\"https://www.peacocktv.com/help/article/directv\" target=\"_blank\">Peacock Help Center</a> for additional details.",
+            "txtMepPlusPeacockDisclaimer4": "<br />By subscribing, you agree to <a href=\"https://www.peacocktv.com/terms\" target=\"_blank\">Peacock Premium Terms of Service</a> and <a href=\"https://www.peacocktv.com/privacy\" target=\"_blank\">Privacy Policy</a>. Subject to discontinuation, change, or cancellation at any time. U.S. only.",
+            "txtMepPlusPeacockDisclaimer5": "<br>Watch Peacock Premium on the Peacock app or <a href=\"http://peacocktv.com/\" target=\"_blank\">peacocktv.com</a>.",
+            "txtMepPlusPeacockDisclaimer6": ""
+          }
+        },
+        "removeLaterDialog": {
+          "txtContent": "We can't remove this subscription online until 24 hours after purchase. Call 800.531.5000 to remove it now.",
+          "title": "Please wait 24 hours before removing the subscription online"
+        },
+        "rightSizingModal": {
+          "ctaCancel": "CANCEL",
+          "txtDialogContent": "To give you the best value, we are upgrading you to the [[PACKAGE]] package. This package includes all of the premium channels (HBO Max, Cinemax®, SHOWTIME®, and STARZ®) for a lower monthly price. (Any offers associated with the premium channels listed above will be removed.)",
+          "ctaOk": "Ok",
+          "tltDialog": "We'll upgrade you to the [[PACKAGE]] package.",
+          "txtDollar": "$",
+          "txtTax": "+tax",
+          "txtPrice": "mo",
+          "ctaGetOffer": "UPGRADE"
+        },
+        "receiverRestrictionDialog": {
+          "txtContent": "The programming, service or equipment you requested requires a compatible receiver. After the receiver is installed and activated, the programming service will be available to order. Please call <a href=\"tel:+18552019515\" >1-855-201-9515</a> to purchase a HD receiver.",
+          "title": "You need to have a compatible receiver"
+        },
+        "seasonStartedDialog": {
+          "txtContent": "We’re sorry. We can’t cancel this subscription because the season has already started. You’ll have access to this package until the end of the season and we won’t auto-renew your package for the next season.",
+          "title": "We can’t cancel this subscription"
+        }
+      }
+    },
+    "ManagePackageLanding": {
+      "title": "managePackageLanding",
+      "elements": {
+        "errSnagMsg": "Oops! It's not you. It's us. Something went wrong on our end. Give it a few minutes and try again.",
+        "txtRemoveAppleTv": "You successfully removed Apple TV+ from your account.",
+        "txtSuccsMsg": "All set! We made your changes!",
+        "txtNewlyAddedAddOnSuccsMsg":"All set! We made your changes. Some channels may take a few minutes to become available on your TV.",
+        "txtSvodAppliedMsg": "Check your email for info about activating your subscription.",
+        "txtIncluded": "Included",
+        "txtRemovePeacock": "Peacock removed successfully",
+        "txtPerSeason": "/per season",
+        "txtUntil": "Until",
+        "txtBackToAccountOverview": "Back to Account Overview",
+        "txtDuration": "/mo. for [[DURATION]] months",
+        "txtSuccessAppleTv": "Congratulations! You’ve added Apple TV+. Check your email or select “Activate now” on the Apple TV+ card to activate and start watching.",
+        "txtManageSubscription": "Manage my TV package",
+        "txtForLoyaltyGift": "HBO Max Basic With Ads Loyality gift",
+        "channelLink": {
+          "lnkchannelLink": "https://www.directv.com/channel-lineup/modal/?channels=satellite"
+        },
+        "txtPerMonth": "per month",
+        "txtSuccessPeacock": "You’ve added Peacock! Check your email to register with Peacock so you can start watching.",
+        "txtPDISAlert": "We can't process changes to your TV package or add-ons after you've requested cancellation of your account.",
+        "txtManageSubscriptionBeam": "Manage my TV Package",
+        "txtCardExpired": "Heads up! Your card expired. Be sure to ",
+        "txtAsSoon": " it as soon as possible.",
+        "txtAriaUpdatePayment": "Update your payment information",
+        "txtAdded": "added",
+        "txtUpdate": "update",
+        "txtTryAgnForEpochBiiling": "Oops! Our system can’t process your package switch right now. Please try again later. If you’d like an agent to complete your switch, call 800-531-5000.",
+        "txtRemoved": "removed",
+        "txtSuccess": "successfully",
+        "txtOffer": "offer",
+        "txtForHboChanged": "You changed your plan to [[ADDON]].",
+        "txtTryAgnEmp": "Your account change may not have processed. Please refresh your screen, and if you do not see the change reflected on your account, try again later",
+        "txtMo": "/mo",
+        "txtTryAgn": "Service cannot be processed at this time. Please try again later.",
+        "txtLocalChannelRemoved": "You successfully removed local channels from your TV package.",
+        "errBnrType": "error",
+        "txtCardExpiresSoon": "Heads up! Your card expires on [[MONTH]]/[[YEAR]]. Be sure to ",
+        "txtRemoveNetflix": "You successfully removed Netflix from your account.",
+        "succssBnrType": "Success",
+        "txtSuccessNetflix": "Congratulations! You’ve added Netflix Premium. Check your email or select [[ACTIVATE NOW]] on the Netflix card to activate and start watching.",
+        "txtlocalChannelAdded": "You successfully added local channels to your TV package.",
+        "txtForNetflixActivate": "Activate",
+        "txtForNetflixChanged": "You changed your plan to [[ADDON]].",
+        "txtMultiTireNetflixmessage": "You added [[ADDON]]. Check your email or select [[ACTIVATE NOW]] on the Netflix card to start watching.",
+        "txtNetflixlocalChannelRemoved": "You removed [[ADDON]]. Your cancellation is effective immediately."
+      }
+    },
+    "CurrentSubscriptionTile": {
+      "title": "currentSubscriptionTile",
+      "elements": {
+        "txtPromoPriceEnds": "Promo price ends [[DATE]]",
+        "txtSeeDetails": "See details",
+        "txtCurrentTVSubscription": "Current TV package",
+        "txtIncluded": "Included",
+        "txtLocalChannels": "Local channels",
+        "txtCancelServiceModalByPhone": {
+          "txtPhoneNumber": "800.531.5000",
+          "txtDescription": "Agents are standing by to help you with quick, personalized service.",
+          "linkCancelService": "Cancel service",
+          "tltCancelServiceModal": "To cancel your service, please call ",
+          "txtCrossAltTxt": "Close this window"
+        },
+        "txtCancelSubscriptionLabel": "Cancel my service",
+        "txtStreaming": "Streaming",
+        "txtChargesStartAt": "Charges start at",
+        "txtNotIncludedLcc": "Not included ($12/mo. savings)",
+        "ctaSwitchTo": "SWITCH TO",
+        "ctaSeeDetails": "SEE DETAILS",
+        "txtimageURL": "/dtvassets/images/service/dtvn/logos/att-tv/",
+        "txtTax": "+tax",
+        "txtAddon": "Add-ons",
+        "txtPng": ".png",
+        "roadRunnerLocalChannelsToken": "BOLTON-LOCAL-CHANNELS-INCLUDED",
+        "txtAddOns": "My add-ons",
+        "planTypeRoadrunner": "nftv2025",
+        "lnkManage": "Manage",
+        "txtDiscountsLabel": "Current discounts",
+        "txtPlusTax": "+ tax",
+        "txtServiceEnds": " Your new package subscription begins [[START DATE]].",
+        "txtMonth": "/mo.",
+        "txtMo": "MO*",
+        "txtSpecialCharacter1": "*",
+        "tokenSportsMVP": "base-sports-mvp",
+        "txtNotIncluded": "Not included ($12/mo savings)",
+        "txtOtherServices": "Other services",
+        "txtIncludedValue": "Included ($12/mo. value)",
+        "txtEndsService": "Ends ",
+        "txtDollar": "$",
+        "txtStreamingServices": "Streaming services",
+        "txtMonthTax": "/mo. + tax",
+        "txtLocaleChannels": "See your local channels",
+        "localeChannelLink": "https://www.directv.com/locals/"
+      }
+    },
+    "eddreporting": {
+      "title": "eddReporting",
+      "elements": {
+        "pageLoad": {
+          "pageId": {
+            "lblProtectionPlanActivate": "protectionPlanActivateThisPlan",
+            "lblManagePackageLanding": "managePackageLanding",
+            "lblPackageDetails": "packageDetailsModal",
+            "lblStreams": "streamsModal",
+            "lblAddOnsDetails": "addOnsDetailsModal",
+            "lblCancelAutoRenewal": "cancelAutoRenewalModal",
+            "lblServiceChange": "serviceChangeModal",
+            "lblProtectionPlanRemove": "protectionPlanRemove"
+          },
+          "pageName": {
+            "lblMangePackageAddons": "Manage Package Addons Modal"
+          }
+        },
+        "flowCode": "Existing",
+        "link": {
+          "lnkProtectionDowngrade": "/equipments/modal-remove-downgrade-protection-plan",
+          "lnkSatellite": "/satellite",
+          "lnkManagePackageAddon": "/modal-manage-package-addons",
+          "lnkAddonDetails": "/modal-addons-details",
+          "lnkProtectionPlan": "/equipments/modal-protection-plan",
+          "lnkAccounts": "/accounts",
+          "lnkOverview": "/overview",
+          "lnkPackages": "/packages",
+          "lnkCancelAutoRenewal": "/modal-cancel-auto-renewal",
+          "lnkServiceDetails": "/modal-[[prodType]]-details",
+          "lnkServiceChangeWarning": "/modal-service-change-warning",
+          "lnkManageAccount": "/billing?tabValue=manageAccount",
+          "lnkBilling": "/billing"
+        },
+        "actionEvent": {
+          "eventCode": {
+            "lblActivateChannelSubmit": "DTV_ActivateChannel_Submit",
+            "lblRemoveChannelSubmit": "DTV_RemoveChannel_Submit",
+            "lblAddRemoveServiceSubmit": "DTV_Add_Remove_Service_Submit"
+          },
+          "eventId": {
+            "lblActivateNow": "activateNow",
+            "lblRemoveNow": "removeNow",
+            "lblContinueSwitch": "continueSwitch"
+          },
+          "eventStatus": {
+            "lblSuccess": "success",
+            "lblError": "error"
+          }
+        },
+        "Qualtrics": {
+          "lblChangePackage": "changePackage",
+          "lblRemovePremiumAddOn": "removePremiumAddOn",
+          "lblAddPremiumAddOn": "addPremiumAddOn",
+          "lblAddSportsAddOn": "addSportsAddOn",
+          "lblAddInternationalAddOn": "addInternationalAddOn",
+          "lblRemoveInternationalAddOn": "removeInternationalAddOn",
+          "lblRemoveSportsAddOn": "removeSportsAddOn"
+        },
+        "linkName": {
+          "lblSpecialCharacter1": "/",
+          "lblCancel": "Cancel",
+          "lblSeeAllChannel": "See all channels_",
+          "lblSeeWhatYouget": "See what you get_",
+          "lblRemoving": "Removing_",
+          "lblRemove": "Remove_",
+          "lblSwitchto": "Switch to_",
+          "lblCancelswitch": "Cancel Switch",
+          "lblAdd": "Add_",
+          "lblAdding": "Adding_"
+        },
+        "linkClick": {
+          "linkId": {
+            "lblCompareChannelLineUps": "compareChannelLineUps",
+            "lblAddRemoveCta": "addRemoveCtaOnAvailablePackageTile",
+            "lblCloseDialogOnAddOnsTile": "closeDialogOnAddOnsTile",
+            "lblcancelStreamsModal": "cancelStreamsModal",
+            "lblcontinueWebModal": "continueWebModal",
+            "lblUpdateExpiredCard": "updateExpiredCard",
+            "lblselectValues": "selectValues",
+            "lblSeeDetailsOnCurrentSubscription": "seeDetailsOnCurrentSubscription",
+            "lblcancelWebModal": "cancelWebModal",
+            "lblseeMoreLinkServiceStms": "seeMoreLinkServiceStms",
+            "lblUpdateAboutToExpireCard": "updateAboutToExpireCard",
+            "lblSwitchToCtaOpensServiceChangeModal": "switchToCtaOpensServiceChangeModal",
+            "lblseeAllChannel": "seeAllChannels",
+            "lblCloseDialogOnAvailablePackagesTile": "closeDialogOnAvailablePackagesTile",
+            "lblBackToOverview": "backToOverview",
+            "lbladdRemoveCtaCurrentSubscription": "addRemoveCtaOnCurrentSubscriptionTile",
+            "lblSeeDetailsOnAddOnsTile": "seeDetailsOnAddOnsTile",
+            "lblPromoLinkClick": "promotionLinkClick"
+          },
+          "linkPosition": {
+            "lblBody": "Body",
+            "lblPanelCurrentTVSub": "Panel_Current TV subscription",
+            "lblBodyMessage": "Body_Message",
+            "lblPanelAddOn": "Panel_Add_ons",
+            "lblPanelServices": "Panel_Services",
+            "lblPanelAvailablePackages": "Panel_Available_Packages"
+          }
+        }
+      }
+    },
+    "promotionDialogHeader": {
+      "title": "promotionDialogHeader",
+      "elements": {
+        "subTitle": "Here are your current discounts.",
+        "closeBtnCTA": "CLOSE",
+        "title": "My Discounts"
+      }
+    },
+    "addOnGroupLanguage": {
+      "title": "addOnGroupLanguage",
+      "elements": {
+        "selectAllGroup": "All channels"
+      }
+    },
+    "CancelPackage": {
+      "title": "CancelPackage",
+      "elements": {
+        "lblEmailId": "Email address",
+        "tltDescription": "We're on it!",
+        "txtDescription": "<p>It can take up to three business days to finalize your cancellation. Keep an eye out for an email confirmation and your final bill.</p><p></p><p>If you don't get your confirmation email within three business days, please call us at <a href=\"tel:8005315000\">800.531.5000</a>.</p><p></p><p>Thanks for being a DIRECTV customer. We're going to miss you!</p>",
+        "ctaKeepMyService": "KEEP MY SERVICE",
+        "ctaCancelMyService": "CANCEL MY SERVICE",
+        "tltCancelReasons": "Your reason for canceling:",
+        "errPendCancel": "We're still working on your original cancellation request. If you don't get a confirmation email within three business days, call us at 800.531.5000.",
+        "lblAccountNumber": "Account number",
+        "txtConditions": "<ul><li>It can take up to three business days to process your request. Your cancellation won't be final until we send you a confirmation email.</li><li>If we can't complete your request, we'll contact you at the email above. If this isn't your current email, please update your profile today.</li><li>Some customers will need to return their receivers to avoid fees. We'll email you if this applies to you.</li><li>Satellite dishes don't need to be returned.</li><li>Your special offers, discounts and promotional credits will be canceled, and DVR recordings will be deleted.</li><li>If you have an active contract or don’t return your equipment within 21 days of canceling, your final bill may include an early termination fee or equipment non-return fee.</li></ul>",
+        "tltConditions": "When you cancel your service online:",
+        "ctaClose": "CLOSE",
+        "txtCancelReasons": "Cancellation reasons",
+        "errMessage": "Something went wrong. Give it some time, then try again.",
+        "cancelReasons": [
+          {
+            "reasonDescription": "Too expensive",
+            "displayOrder": 0
+          },
+          {
+            "reasonDescription": "Dissatisfied - moving to competitor",
+            "displayOrder": 1
+          },
+          {
+            "reasonDescription": "Billing or customer experience",
+            "displayOrder": 2
+          },
+          {
+            "reasonDescription": "Something else",
+            "displayOrder": 3
+          }
+        ]
+      }
+    },
+    "addOnTabsBeam": {
+      "title": "addOnTabsBeam",
+      "elements": {
+        "tltPremium": "Premium networks",
+        "tltAdults": "Adult",
+        "tltSplOffer": "Special offers",
+        "tltInternational": "International",
+        "tltStreamingServices": "Streaming services",
+        "tltTV": "More TV",
+        "tltSports": "Sports"
+      }
+    },
+    "localChannelsIncluded": {
+      "title": "localChannelsIncluded",
+      "elements": {
+        "txtCtaLabel": "REMOVE LOCAL CHANNELS",
+        "txtSubContent": "Local channels are included in your package. You can remove them and save $12/mo.",
+        "lnkLearnMore": "Learn more",
+        "txtTitle": "Local channels included"
+      }
+    },
+    "localChannelsNotIncluded": {
+      "title": "localChannelsNotIncluded",
+      "elements": {
+        "txtCtaLabel": "ADD LOCAL CHANNELS",
+        "txtSubContent": "Local channels are not included in your package. You can add them for $12/mo.",
+        "lnkLearnMore": "Learn more",
+        "txtTitle": "Local channels"
+      }
+    },
+    "localsLearnMoreModal": {
+      "title": "localsLearnMoreModal",
+      "elements": {
+        "txtDescRR": "If you don’t need this content, you can remove local channels and save $[X.xx]/mo. on your bill. If you remove local channels, you can add them back any time—they’ll be available within minutes.",
+        "lnkSeeWhatLocals": "See what local channels you have",
+        "txtSubContent": "Local channels include CBS, NBC, ABC, Fox, PBS, and more. These channels broadcast live sports, local weather and news, and other programming many customers rely on.",
+        "txtDesc": "If you don’t need this content, you can remove local channels and save $12/mo on your bill. If you remove local channels, you can add them back any time—they’ll be available within minutes.",
+        "lnkSeeWhatLocalsRR": "See local channels in your ZIP Code",
+        "txtTitle": "More on local channels",
+        "lnkSeeWhatLocalsHref": "https://www.directv.com/channel-lineup/modal/?tab=rsn"
+      }
+    },
+    "test": {
+      "title": "test1",
+      "elements": {}
+    },
+    "netflixModal": {
+      "title": "netflixModal",
+      "elements": {
+        "ctaCancel": "CANCEL",
+        "tltError": "Let’s give that another try.",
+        "tltFailHead": "Oops! We need more time.",
+        "tltNetflix": "Issues with your Netflix account? We’ll take you to Netflix to take care of it.",
+        "tltFail": "We’re still having technical difficulties. Please try again later today.",
+        "tltNetflixActivate": "Recover your account or activate Netflix.",
+        "ctaTryAgain": "TRY AGAIN",
+        "title": "netflixModal",
+        "ctaGoToNetflix": "GO TO NETFLIX",
+        "tltErrorHead": "Oops! We hit a snag."
+      }
+    },
+    "localChannelsNotIncludedRoadRunner": {
+      "title": "localChannelsNotIncludedRoadRunner",
+      "elements": {
+        "txtCtaLabel": "ADD LOCAL CHANNELS",
+        "txtSubContent": "Your TV package doesn’t include local channels. You can add them for $[X.xx]/mo.",
+        "lnkLearnMore": "Learn more",
+        "txtTitle": "Local channels not included",
+        "lnkSeeWhatLocalsHref": "https://www.directv.com/channel-lineup/modal/?tab=rsn"
+      }
+    },
+    "localChannelsIncludedRoadRunner": {
+      "title": "localChannelsIncludedRoadRunner",
+      "elements": {
+        "txtCtaLabel": "REMOVE LOCAL CHANNELS",
+        "lnkUseAntenna": "use an antenna",
+        "modalTxtOneForRR": "By removing local channels you’ll save $[X.xx]/mo. and will no longer be able to use your set-top box to view local channels such as CBS, NBC, ABC, FOX, and PBS (for full list go to directv.com/locals). You can still watch your local channels if you ",
+        "lnkUseAntennaHref": "https://www.directv.com/support/satellite/article/000097480",
+        "modalTxtTwo": "Switch back any time and your local sports and news channels will be available right away.",
+        "txtMo": "MO",
+        "lnkSeeWhatLocalsRR": "See local channels in your ZIP Code",
+        "modalTxtOne": "By removing local channels you will save $[X.xx]/mo. You can still watch your local channels if you",
+        "ctaCancel": "CANCEL",
+        "modalTxtTwoForRR": "You can switch back at any time and local channels will be available soon.",
+        "txtCtaRemove": "REMOVE LOCAL CHANNELS",
+        "removeModalLabel": "Remove local channels",
+        "txtDollar": "$",
+        "txtSubContent": "Your TV package has local channels. You can remove them and save $[X.xx]/mo.",
+        "lnkLearnMore": "Learn more",
+        "txtTax": "+tax & fees",
+        "txtCtaCancel": "KEEP LOCAL CHANNELS",
+        "txtZero": "00",
+        "txtTitle": "Local channels included",
+        "ctaRemove": "REMOVE",
+        "lnkSeeWhatLocalsHref": "https://www.directv.com/channel-lineup/modal/?tab=rsn"
+      }
+    },
+    "appleTvModal": {
+      "title": "appleTvModal",
+      "elements": {
+        "tltAppleTvActivate": "Activate Apple TV+",
+        "ctaGoToAppleTv": "GO TO APPLE TV+"
+      }
+    },
+    "ftcCancelService": {
+      "title": "ftcCancelService",
+      "elements": {
+        "ftcCancelMemberId": "TreatmentCancelOptionOnline"
+      }
+    },
+    "fusionCMS": {
+      "elements": {
+        "currentPackage": {
+          "signature": "Signature Package",
+          "lineup": "Channel lineup",
+          "txtPromoEnds": "Promo ends",
+          "txtIncluded": "Also includes:",
+          "txtDollar": "$",
+          "txtFees": "/mo.",
+          "txtAddCTA": "Add locals",
+          "txtRemoveCTA": "Remove locals",
+          "txtLocalInclude": " Local channels included",
+          "txtLocalIncludeSub": "Remove them and save $[xx]",
+          "txtLocalIncludeNot": "Local channels not included",
+          "txtLocalIncludeNotSub": "Add them back",
+          "preRRLocalPrice": "12",
+          "tltFusionCurrentSubBeam": "Taxes & fees not included",
+          "txtFusionManageSubscriptionBeam": "My TV Package",
+          "txtFusionAccountManagement": "Account management",
+          "txtFusionAccountRecovery": "Account recovery",
+          "txtFusionWatch": "Watch",
+          "txtForIncludedOnUs": "Included on us",
+          "txtFusionAddon": "Add-on",
+          "txt1FusionForPeacock": "Peacock is coming soon to Movies Extra Pack.",
+          "txt2FusionForPeacock": "You can",
+          "txt3FusionForPeacock": "about additional programming and pricing.",
+          "ctaRemove": "Remove",
+          "txtForManagePlan": "Manage plan",
+          "txtForAccountManagement": "Account management",
+          "txtForNetflix": "Netflix",
+          "txtForHboMax": "HBO-MAX",
+          "mepDateTypes": {
+            "txtStart": "start",
+            "txtEnd": "end",
+            "txtRange": "range"
+          },
+          "txtFusionNeed": "Need more add ons?",
+          "txtFusionShop": "Shop Add-ons",
+          "txtFusionCancelService": "Cancel service",
+          "txtFusionLearnMore": "learn more",
+          "txtFusionRegisterToWatch": "Register to watch",
+          "txtActivatePeacock": "Activate Peacock Premium",
+          "txtWatchPeacock": "Watch Peacock Premium",
+          "txtFusionGoodNews": "Good news",
+          "txtFusionGoodNewsContent": "You have the Peacock Premium add-on which is already included in Movie Extra Pack + Peacock. We'll remove it so you aren’t charged twice.",
+          "bundles": {
+            "mepBundle": {
+              "mepBundleWithPromo": [
+                "P6688/5",
+                "P6688/10"
+              ],
+              "mepBundleWithoutPromo": [
+                "P6688/1",
+                "P6688/12"
+              ],
+              "mepSave": [
+                "P121606/1"
+              ],
+              "peacockStandalone": [
+                "R120484/1",
+                "R120484/2"
+              ],
+              "peacockIncludedProduct": [
+                "R120484/10",
+                "R120484/15"
+              ]
+            }
+          },
+          "disneyCustomerDetails": {
+            "txtContentTitle": "Disney Customer ID",
+           "txtSubContent": "You may need this ID when contacting customer support. For more information about Disney+, please visit the <a style='color:#2E70BD;' href='https://help.disneyplus.com' target='_blank' data-linkPosition='modalBody' data-linkDestination='https://help.disneyplus.com'  id='Disney+ Help Center'>Disney+ Help Center.</a>",
+            "txtContentHeader": "Disney Customer Number",
+            "txtActivate": "Activate",
+            "txtWatch": "Watch",
+            "primaryBtnText": "Close",
+            "txtEspnWatchNowLink": "https://plus.espn.com/"
+          },
+          "learnMoreDetails": {
+            "title": "Movies Extra Pack is getting bigger and better with Peacock!",
+            "txtContent1": "With Peacock Premium stream your favorite movies in the universe, hit series, exclusive Originals, live sports, next-day episodes from NBC & Bravo and more on the Peacock app or at <a href=\"https://www.peacocktv.com/\" target=\"_blank\">peacocktv.com</a>.",
+            "txtContent2": "<b>What happens next?</b> <br />You’ll continue paying $4.99/mo. for Movies Extra Pack until Peacock arrives.",
+            "txtContent3": "You’ll continue paying $4.99/mo. for Movies Extra Pack until Peacock arrives.",
+            "txtContent4": "At the start of your next billing cycle, Peacock Premium will be added to Movies Extra Pack and the price will change to $9.99/mo.",
+            "txtContent5": "You’ll receive an email with instructions on how to activate and watch Peacock Premium.",
+            "txtContent6": "To learn more about when this change will happen, please view your billing period by visiting your bill summary.",
+            "primaryBtnText": "Close"
+          },
+          "txtFusionCurrentDiscount": "Current discounts"
+        },
+        "localChannelsNotIncludedRoadRunner": {
+          "title": "Local channels not included",
+          "txtContent": "Your TV package doesn’t include local channels. You can add them for $[xx.xx]/mo.",
+          "txtSubContent": "Local channels include CBS, NBC, ABC, Fox, PBS, and more. These channels broadcast live sports, local weather and news, and other programming many customers rely on.​",
+          "txtLink": "See your list of local TV channels.​",
+          "lnkSeeWhatLocalsHref": "https://www.directv.com/channel-lineup/modal/?tab=rsn",
+          "primaryBtnText": "Add local channels",
+          "secondaryBtnText": "Close"
+        },
+        "localChannelsIncludedRoadRunner": {
+          "title": "Local channels included",
+          "txtContent": "Your TV package includes local channels. You can remove them and save $[xx.xx]/mo.",
+          "txtSubContent": "Local channels include CBS, NBC, ABC, Fox, PBS, and more. These channels broadcast live sports, local weather and news, and other programming many customers rely on.​",
+          "txtLink": "See your list of local TV channels.​",
+          "lnkSeeWhatLocalsHref": "https://www.directv.com/channel-lineup/modal/?tab=rsn",
+          "primaryBtnText": "Remove local channels",
+          "secondaryBtnText": "Close"
+        }
+      }
+    },
+    "channelLineUp":{
+      "channelLineupSpanishAddons": "https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/spanish/DIRECTV-via-Satellite-Spanish-Package-Addons.pdf",
+      "channelLineupLegacySignaturePkg": "https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/channel-lineup/DIRECTV-via-Satellite-All-Packages-Channel-Lineup.pdf",
+      "channelLineupCurrentSignaturePkg": "https://www.directv.com/channel-lineup/modal/?channels=satellite&pkg=[[PACKAGE_NAME]]&zipcode=[[ZIP_CODE]]",
+      "channelLineupCurrentSignatureCmprPkg": " https://www.directv.com/channel-lineup/modal/?channels=satellite&cmprPkg=[[PACKAGE_NAME]]&zipcode=[[ZIP_CODE]]",
+      "title": "DIRECTV Channel Lineup"
+    }
+  }
+}
